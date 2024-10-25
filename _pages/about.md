@@ -59,7 +59,7 @@ I currently work as a Research Fellow in NUS. For my full (and timely) publicati
 - ``ICDE 2024`` ***Contrastive Graph Representations for Logical Formulas Embedding (Extended Abstract)***. <br>***Qika Lin***, Jun Liu, Lingling Zhang, Yudai Pan, Xin Hu, Fangzhi Xu, Hongwei Zeng. TKDE Poster. [Paper](https://ieeexplore.ieee.org/document/10598103)
 - ``ICDE 2024`` ***Recommending Learning Objects through Attentive HGC and OperationAware Neural Network (Extended Abstract)***. <br>Yifan Zhu, ***Qika Lin***, Hao Lu, Kaize Shi, Donglei Liu, James Chambua, Shanshan Wan, Zhendong Niu. TKDE Poster. [Paper](https://ieeexplore.ieee.org/document/10598126)
 - ``Cognitive Computation`` ***Disentangling User Cognitive Intent with Causal Reasoning for Knowledge-Enhanced Recommendation***. <br>Hongcai Xu, Junpeng Bao, ***Qika Lin***, Lifang Hou, Feng Chen. Cognitive Computation. [Paper](https://link.springer.com/article/10.1007/s12559-024-10321-0)
-- ``Information Fusion`` ***Quantitative stock portfolio optimization by multi-task learning risk and return***. Yu Ma, Rui Mao, ***Qika Lin***, Peng Wu, Erik Cambria. Information Fusion. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253523004815)
+- ``Information Fusion`` ***Quantitative stock portfolio optimization by multi-task learning risk and return***. Yu Ma, Rui Mao, ***Qika Lin***, Peng Wu, Erik Cambria. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253523004815)
   
 ## 2023
 - ``ACL 2023`` ***TECHS: Temporal Logical Graph Networks for Explainable Extrapolation Reasoning***. <span style="color:red">[CCF-A]</span><br>***Qika Lin***, Jun Liu, Rui Mao, Fangzhi Xu, Erik Cambria. [Paper](https://aclanthology.org/2023.acl-long.71.pdf)
@@ -91,7 +91,7 @@ I currently work as a Research Fellow in NUS. For my full (and timely) publicati
 - ***Lexical based automated teaching evaluation via students’ short reviews***. <br>***Qika Lin***, Yifan Zhu, Sifan Zhang, Pengfei Shi, Qing Guo, Zhendong Niu. Computer Applications in Engineering Education, 2019. [Paper](https://onlinelibrary.wiley.com/doi/full/10.1002/cae.22068)
 
 
-# 🎖 Honors and Awards
+# 🎖 Honors & Awards
 <span class='anchor' id='-honors-and-awards'></span>
 
 - *2022.10* National Scholarship.
@@ -103,15 +103,19 @@ I currently work as a Research Fellow in NUS. For my full (and timely) publicati
 
 <span class='anchor' id='-educations'></span>
 
-- *2023.09 - (now)*, Research Fellow at SSHSPH, National University of Singapore, Singapore. (Supervisor: [Prof. Mengling Feng](https://www.mornin-feng.com/))
+- *2023.09 - present*, Research Fellow at SSHSPH, National University of Singapore, Singapore. (Supervisor: [Prof. Mengling Feng](https://www.mornin-feng.com/))
 - *2021.10 - 2022.10*, Joint Ph.D. at CCDS, Nanyang Technological University, Singapore. (Supervisor: [Prof. Erik Cambria](https://scholar.google.com/citations?user=ilSYpW0AAAAJ))
 - *2019.09 - 2023.06*, Ph.D. at School of Computer Science and Technology, Xi'an Jiaotong University, Shannxi, China. (Supervisor: [Prof. Jun Liu](https://gr.xjtu.edu.cn/web/liukeen))
 - *2016.09 - 2019.06*, M.E. at School of Computer Science and Technology, Beijing Institute of Technology, Beijing, China. (Supervisor: [Prof. Zhendong Niu](https://cs.bit.edu.cn/szdw/jsml/js/nzd/index.htm))
 - *2012.09 - 2019.06*, B.E. at School of Chemical Engineering and Environment, Beijing Institute of Technology, Beijing, China. 
 
-# 🎤 Academic Services
+# 🎤 Academic Projects & Services
 <span class='anchor' id='-social'></span>
 
+## Academic Projects
+- ***Research on Interpretable Artificial Intelligence Methods and Applications based on Neural-Symbol Architecture***, Fundamental Research Funds for the Central Universities of China. (￥40K, 2021.01-2022.12, director)
+
+  
 ## Editor Service
 
 - *2024.11 - present*, ***Guest Editor*** of [GenAI for Information Fusion]() in Information Fusion.
