@@ -125,35 +125,36 @@ I currently work as a Research Fellow in NUS. For my full (and timely) publicati
 # 🎤 Academic Services
 <span class='anchor' id='-social'></span>
 
-<!--
-## Lectures
-
-- *2024.06*, 推荐系统基础
-
-
-## Invited Talks
-
-- *2023.10*, 基础模型时代下隐私保护与可信数据要素流通, 第一届中国（成都）数智金融高峰论坛 [Slides](files/大模型时代下隐私保护与可信数据要素流通_数智论坛.pdf)
--->
-
 ## Editor Service
 
-- *2024.07 - present*, ***Guest Editor (corresponding)*** of [IEEE Transactions on Computational Social Systems](https://www.ieeesmc.org/wp-content/uploads/2024/02/Multimodal-Representation-and-Reasoning-for-Social-Computing-CFP.pdf)
-- *2023.10 - 2024.06*, ***Guest Editor*** of [Electronics](https://www.mdpi.com/journal/electronics/special_issues/D3L8Y3L5S7)
+- *2024.02 - 2024.11*, ***Guest Editor (corresponding)*** of [Multimodal Representation and Reasoning for Social Computing](https://www.ieeesmc.org/wp-content/uploads/2024/02/Multimodal-Representation-and-Reasoning-for-Social-Computing-CFP.pdf) in IEEE Transactions on Computational Social Systems.
+- *2023.10 - 2024.06*, ***Guest Editor*** of [Applied Artificial Intelligence Approach: Intelligent Data Processing and Mining with Online Behaviors](https://www.mdpi.com/journal/electronics/special_issues/D3L8Y3L5S7) in Electronics.
 
-<!--
-## Social Service
+## Conference Service
 
-- Executive member of [CCF Expert Committee on Big Data](https://www.ccf.org.cn/Chapters/TC/TC_Listing/TFBD/)
-- Executive member of [CCF Data Governance Development Committee](https://www.ccf.org.cn/sjzlfzwyh/)
--->
-
-## Program Committee & Reviewer Service
-
-- ***Program committee member*** of COLING'22-25, LOG'22-23, EMNLP'22-24, ACL'23-24, SIGIR'23-24, NeurIPS'24, ICLR'25, AISTATS'25, etc.
-- ***Reviewer*** of TPAMI, IJCV, TKDE, TMC, TNNLS, TVSVT, TAI, TBD, TCSS, TKDD, TOSEM, KBS, Information Fusion, IEEE Intelligent Systems, etc.
-- ***Special Session Chair*** [Knowledgedriven Graph Learning for Social Behavioral and Medical Data](https://besc-conf.org/2024/special-session-3), the International
+- ***Special Session Chair*** of [Knowledgedriven Graph Learning for Social Behavioral and Medical Data](https://besc-conf.org/2024/special-session-3), the International
 Conference on Behavioural and Social Computing (BESC), 2024.
+- ***Program committee member*** of COLING'22-25, LOG'22-23, EMNLP'22-24, ACL'23-24, SIGIR'23-24, NeurIPS'24, ICLR'25, AISTATS'25, etc.
+
+
+## Journal Reviewer
+
+- IEEE Transactions on Pattern Analysis and Machine Intelligence (CCF A)
+- International Journal of Computer Vision (CCF A)
+- IEEE Transactions on Knowledge and Data Engineering (CCF A)
+- IEEE Transactions on Mobile Computing (CCF A)
+- IEEE Transactions on Neural Networks and Learning Systems
+- IEEE Transactions on Industrial Informatics
+- IEEE Transactions on Computational Social Systems
+- IEEE Transactions on Circuits and Systems for Video Technology
+- IEEE Transactions on Big Data
+- IEEE Intelligent Systems
+- ACM Transactions on Knowledge Discovery from Data
+- ACM Transactions on Intelligent Systems and Technology
+- ACM Transactions on Software Engineering and Methodology
+- Information Fusion
+- Information Processing and Management
+- Neurocomputing
 
 <!--
 # Students
