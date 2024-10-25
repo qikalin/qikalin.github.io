@@ -30,12 +30,10 @@ I currently work as a Research Fellow in NUS. For my full (and timely) publicati
 
 # 🔥 News
 <span class='anchor' id='-news'></span>
-- *2024.07*:&nbsp;🚀🚀CFPs: Our Special Issue [Multimodal Representation and Reasoning for Social Computing](https://www.ieeesmc.org/wp-content/uploads/2024/02/Multimodal-Representation-and-Reasoning-for-Social-Computing-CFP.pdf) in IEEE TCSS.
-<!-- - *2024.05* : &nbsp; Congratulations to [Fanjin](https://zfjsail.github.io/) and [Haoran](https://lhrlab.github.io/) for our outstanding work (OAG-Bench and ChatKBQA) been accepted by KDD'24 and ACL'24! -->
-<!-- - *2024.01* : &nbsp; I have been elected as an executive member of [CCF Data Governance Development Committee](https://www.ccf.org.cn/sjzlfzwyh/). -->
-<!-- - *2023.12*: &nbsp; I have joined as an editorial board member of the [Information Fusion](https://www.sciencedirect.com/journal/information-fusion/about/editorial-board).  -->
-<!-- - *2023.10*: &nbsp; We have organized a special issue entitiled "Applied Artificial Intelligence Approach: Intelligent Data Processing and Mining with Online Behaviors" on [Electronics](https://www.mdpi.com/journal/electronics/special_issues/D3L8Y3L5S7), and we warmly welcome submissions! -->
-<!-- - *2023.09*: &nbsp; As an assistant professor, I joined in the School of Computer Science, Beijing University of Posts and Telecommunications, and worked closely with <a href='https://teacher.bupt.edu.cn/songmeina/zh_CN/index.htm'>Prof. Meina Song</a>,  <a href='https://teacher.bupt.edu.cn/ouzhonghong/zh_CN/index.htm'>Prof. Zhonghong Ou</a>, and  <a href='https://teacher.bupt.edu.cn/ehaihong/zh_CN/index.htm'>Prof. Haihong E</a>.  -->
+- *2024.11*:&nbsp;🚀🚀CFPs: Our Special Issue of [GenAI for Information Fusion]() in Information Fusion.
+- *2024.02*:&nbsp;🚀🚀CFPs: Our Special Issue of [Multimodal Representation and Reasoning for Social Computing](https://www.ieeesmc.org/wp-content/uploads/2024/02/Multimodal-Representation-and-Reasoning-for-Social-Computing-CFP.pdf) in IEEE TCSS.
+
+
 
 # 📚 Publications 
 <span class='anchor' id='-publications'></span>
@@ -97,6 +95,8 @@ I currently work as a Research Fellow in NUS. For my full (and timely) publicati
 - ```IEEE TIST``` Hao Lu, Yifan Zhu, ***Qika Lin***, Tan Wang, Zhendong Niu, Enrique HerreraViedma, ***Heterogeneous Knowledge Learning of Predictive Academic Intelligence in Transportation***, 2022. [Paper](https://ieeexplore.ieee.org/document/9298476)
   
 ## 2021 and before
+- ***蔺奇卡***, 张玲玲, 刘均, 赵天哲. 基于问句感知图卷积的教育知识库问答方法, 计算机科学与探索, 2021. [Paper](https://dl.ccf.org.cn/article/articleDetail.html?type=qkwz&_ack=1&id=5686631911770112)
+- 王若琳, 牛振东, ***蔺奇卡***, 朱一凡, 邱萍, 陆浩, 刘东磊. 基于异质信息嵌入与RNN聚类参数预测的作者姓名消歧方法, 数据分析与知识发现, 2021. [Paper](https://manu44.magtech.com.cn/Jwk_infotech_wk3/CN/10.11925/infotech.2096-3467.2021.0253)
 - ```Information Sciences``` ***Qika Lin***, Jun Liu, Yudai Pan, Lingling Zhang, Xin Hu, Jie Ma, ***Rule-Enhanced Iterative Complementation for Knowledge Graph Reasoning***, 2021. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025521006319?via%3Dihub)
 - ```FGCS``` ***Qika Lin‡***, Yifan Zhu‡, Hao Lu, Kaize Shi, Zhendong Niu, ***Improving University Faculty Evaluation via Multiview Knowledge Graph***, 2021. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0167739X20330454?via%3Dihub)
 - ```KBS``` Yifan Zhu, ***Qika Lin***, Hao Lu, Kaize Shi, Ping Qiu, Zhendong Niu, ***Recommending Scientific Paper via Heterogeneous Knowledge Embedding based Attentive Recurrent Neural Networks***, 2021. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705121000071?via%3Dihub)
@@ -127,6 +127,7 @@ I currently work as a Research Fellow in NUS. For my full (and timely) publicati
 
 ## Editor Service
 
+- *2024.11 - present*, ***Guest Editor*** of [GenAI for Information Fusion]() in Information Fusion.
 - *2024.02 - 2024.11*, ***Guest Editor (corresponding)*** of [Multimodal Representation and Reasoning for Social Computing](https://www.ieeesmc.org/wp-content/uploads/2024/02/Multimodal-Representation-and-Reasoning-for-Social-Computing-CFP.pdf) in IEEE Transactions on Computational Social Systems.
 - *2023.10 - 2024.06*, ***Guest Editor*** of [Applied Artificial Intelligence Approach: Intelligent Data Processing and Mining with Online Behaviors](https://www.mdpi.com/journal/electronics/special_issues/D3L8Y3L5S7) in Electronics.
 
