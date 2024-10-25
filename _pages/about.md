@@ -113,7 +113,7 @@ I currently work as a Research Fellow in NUS. For my full (and timely) publicati
 <span class='anchor' id='-social'></span>
 
 ## Academic Projects
-- ***Research on Interpretable Artificial Intelligence Methods and Applications based on Neural-Symbol Architecture***, Fundamental Research Funds for the Central Universities of China. (￥40K, 2021.01-2022.12, director)
+- ***Research on Interpretable Artificial Intelligence Methods and Applications based on Neural-Symbolic Architecture***, Fundamental Research Funds for the Central Universities of China. (￥40K, 2021.01-2022.12, director)
 
   
 ## Editor Service
