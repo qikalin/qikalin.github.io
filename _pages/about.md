@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-My primary research interests lie in knowledge acquisition, knowledge representation, and knowledge reasoning based on deep learning techniques. The ultimate goal of my research is to develop an artificial intelligence (AI) machine that can perceive, reason, and plan in real-world scenarios like humans. The research fields involve: Knowledge Graph (KG), Logical reasoning, and Large Language Model (LLM). Moving forward, my focus will be on exploring the potential of AI in multimodal healthcare and education applications.
+My primary research interests lie in knowledge acquisition, knowledge representation, and knowledge reasoning based on deep learning techniques. The ultimate goal of my research is to develop an artificial intelligence (AI) machine that can perceive, reason, and plan in real-world scenarios like humans. The research fields involve: ***Knowledge Graph (KG)***, ***Logical Reasoning***, and ***Large Language Model (LLM)***. Moving forward, my focus will be on exploring the potential of AI in multimodal healthcare and education applications.
 
 I currently work as a Research Fellow in NUS. For my full (and timely) publication list, please refer to my Google scholar <a href='https://scholar.google.com/citations?user=k8BKz0MAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
@@ -30,27 +30,13 @@ I currently work as a Research Fellow in NUS. For my full (and timely) publicati
 
 # 🔥 News
 <span class='anchor' id='-news'></span>
-- *2024.11*:&nbsp;🚀🚀CFPs: Our Special Issue of [GenAI for Information Fusion]() in Information Fusion.
-- *2024.02*:&nbsp;🚀🚀CFPs: Our Special Issue of [Multimodal Representation and Reasoning for Social Computing](https://www.ieeesmc.org/wp-content/uploads/2024/02/Multimodal-Representation-and-Reasoning-for-Social-Computing-CFP.pdf) in IEEE TCSS.
+- *2024.11*:&nbsp;🚀🚀CFPs: Our Special Issue of [GenAI for Information Fusion]() in Information Fusion (2023 IF 14.7).
+- *2024.02*:&nbsp;🚀🚀CFPs: Our Special Issue of [Multimodal Representation and Reasoning for Social Computing](https://www.ieeesmc.org/wp-content/uploads/2024/02/Multimodal-Representation-and-Reasoning-for-Social-Computing-CFP.pdf) in IEEE TCSS (2023 IF 4.5).
 
 
 
 # 📚 Publications 
 <span class='anchor' id='-publications'></span>
-
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 *: corresponding author,&nbsp;&nbsp;‡: co-first author
 
@@ -65,7 +51,7 @@ I currently work as a Research Fellow in NUS. For my full (and timely) publicati
 
 ## 2024
 
-- ``ACL 2024`` Fangzhi Xu, ***Qika Lin\****, Tianzhe Zhao, Jiawei Han, Jun Liu\*, ***PathReasoner: Modeling Reasoning Path with Equivalent Extension for Logical Question Answering***, 2024. [Paper](https://aclanthology.org/2024.acl-long.724/)
+- ``ACL 2024`` ***PathReasoner: Modeling Reasoning Path with Equivalent Extension for Logical Question Answering***. <span style="color:red">[CCF-A]</span>\\Fangzhi Xu, ***Qika Lin\****, Tianzhe Zhao, Jiawei Han, Jun Liu\*.[Paper](https://aclanthology.org/2024.acl-long.724/)
 - ``ACL 2024`` Fangzhi Xu, Zhiyong Wu, Qiushi Sun, Siyu Ren, Fei Yuan, Shuai Yuan, ***Qika Lin***, Yu Qiao, Jun Liu,  ***SymbolLLM: Towards Foundational Symbolcentric Interface For Large Language Models***, 2024. [Paper](https://aclanthology.org/2024.acl-long.707/)
 - ``IJCAI 2024`` Rui Mao, ***Qika Lin***, Qiawen Liu, Gianmarco Mengaldo, Erik Cambria, ***Understanding Public Perception Towards Weather Disasters Through the Lens of Metaphor***, 2024. [Paper](https://www.ijcai.org/proceedings/2024/818)
 - ``SIGIR 2024`` Tianzhe Zhao, Jiaoyan Chen, Yanchi Ru, ***Qika Lin***, Yuxia Geng and Jun Liu, ***Untargeted Adversarial Attack on Knowledge Graph Embeddings***, 2024. [Paper](https://dl.acm.org/doi/10.1145/3626772.3657702)
@@ -116,7 +102,7 @@ I currently work as a Research Fellow in NUS. For my full (and timely) publicati
 
 <span class='anchor' id='-educations'></span>
 
-- *2023.09 - (now)*, Research Fellow at SSHSPH, National University of Singapore, Singapore. (Supervisor: [Prof. Mengling Feng](https://www.mornin-feng.com/) )
+- *2023.09 - (now)*, Research Fellow at SSHSPH, National University of Singapore, Singapore. (Supervisor: [Prof. Mengling Feng](https://www.mornin-feng.com/))
 - *2021.10 - 2022.10*, Joint Ph.D. at CCDS, Nanyang Technological University, Singapore. (Supervisor: [Prof. Erik Cambria](https://scholar.google.com/citations?user=ilSYpW0AAAAJ))
 - *2019.09 - 2023.06*, Ph.D. at School of Computer Science and Technology, Xi'an Jiaotong University, Shannxi, China. (Supervisor: [Prof. Jun Liu](https://gr.xjtu.edu.cn/web/liukeen))
 - *2016.09 - 2019.06*, M.E. at School of Computer Science and Technology, Beijing Institute of Technology, Beijing, China. (Supervisor: [Prof. Zhendong Niu](https://cs.bit.edu.cn/szdw/jsml/js/nzd/index.htm))
