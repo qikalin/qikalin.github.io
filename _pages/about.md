@@ -90,13 +90,14 @@ I currently work as a Research Fellow in NUS. For my full (and timely) publicati
 - Yubing Nie, Yifan Zhu, ***Qika Lin***, Sifan Zhang, Pengfei Shi, Zhendong Niu, ***Academic rising star prediction via scholar’s evaluation model and machine learning techniques***. Scientometrics, 2019. [Paper](https://link.springer.com/article/10.1007/s11192-019-03131-x)
 - ***Qika Lin***, Yifan Zhu, Sifan Zhang, Pengfei Shi, Qing Guo, Zhendong Niu, ***Lexical based automated teaching evaluation via students’ short reviews***. Computer Applications in Engineering Education, 2019. [Paper](https://onlinelibrary.wiley.com/doi/full/10.1002/cae.22068)
 
-<!--
+
 # 🎖 Honors and Awards
 <span class='anchor' id='-honors-and-awards'></span>
--->
-<!--
-- *2023.10* Runner-up best paper award (ADS Track), ECML-PKDD 2023.
--->
+
+- *2022.10* National Scholarship.
+- *2022.10* Tencent Scholarship.
+- *2022.04* ACM SIGIR Student Travel Grant.
+- *2019.04* Innovation and Entrepreneurship Scholarship of Ministry of Industry and Information Technology.
 
 # 🔍 Educations & Work Experiences
 
