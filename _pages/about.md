@@ -51,7 +51,7 @@ I currently work as a Research Fellow in NUS. For my full (and timely) publicati
 
 ## 2024
 
-- ``ACL 2024`` ***PathReasoner: Modeling Reasoning Path with Equivalent Extension for Logical Question Answering***. <span style="color:red">[CCF-A]</span>\\Fangzhi Xu, ***Qika Lin\****, Tianzhe Zhao, Jiawei Han, Jun Liu\*.[Paper](https://aclanthology.org/2024.acl-long.724/)
+- ``ACL 2024`` ***PathReasoner: Modeling Reasoning Path with Equivalent Extension for Logical Question Answering***. <span style="color:red">[CCF-A]</span><br>Fangzhi Xu, ***Qika Lin\****, Tianzhe Zhao, Jiawei Han, Jun Liu\*.[Paper](https://aclanthology.org/2024.acl-long.724/)
 - ``ACL 2024`` Fangzhi Xu, Zhiyong Wu, Qiushi Sun, Siyu Ren, Fei Yuan, Shuai Yuan, ***Qika Lin***, Yu Qiao, Jun Liu,  ***SymbolLLM: Towards Foundational Symbolcentric Interface For Large Language Models***, 2024. [Paper](https://aclanthology.org/2024.acl-long.707/)
 - ``IJCAI 2024`` Rui Mao, ***Qika Lin***, Qiawen Liu, Gianmarco Mengaldo, Erik Cambria, ***Understanding Public Perception Towards Weather Disasters Through the Lens of Metaphor***, 2024. [Paper](https://www.ijcai.org/proceedings/2024/818)
 - ``SIGIR 2024`` Tianzhe Zhao, Jiaoyan Chen, Yanchi Ru, ***Qika Lin***, Yuxia Geng and Jun Liu, ***Untargeted Adversarial Attack on Knowledge Graph Embeddings***, 2024. [Paper](https://dl.acm.org/doi/10.1145/3626772.3657702)
