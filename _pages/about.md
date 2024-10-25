@@ -59,18 +59,18 @@ I currently work as a Research Fellow in NUS. For my full (and timely) publicati
 - ``ICDE 2024`` ***Contrastive Graph Representations for Logical Formulas Embedding (Extended Abstract)***. <br>***Qika Lin***, Jun Liu, Lingling Zhang, Yudai Pan, Xin Hu, Fangzhi Xu, Hongwei Zeng. TKDE Poster. [[Paper]](https://ieeexplore.ieee.org/document/10598103)
 - ``ICDE 2024`` ***Recommending Learning Objects through Attentive HGC and OperationAware Neural Network (Extended Abstract)***. <br>Yifan Zhu, ***Qika Lin***, Hao Lu, Kaize Shi, Donglei Liu, James Chambua, Shanshan Wan, Zhendong Niu. TKDE Poster. [[Paper]](https://ieeexplore.ieee.org/document/10598126)
 - ``Cognitive Computation`` ***Disentangling User Cognitive Intent with Causal Reasoning for Knowledge-Enhanced Recommendation***. <br>Hongcai Xu, Junpeng Bao, ***Qika Lin***, Lifang Hou, Feng Chen. Cognitive Computation. [[Paper]](https://link.springer.com/article/10.1007/s12559-024-10321-0)
-- ``Information Fusion`` ***Quantitative stock portfolio optimization by multi-task learning risk and return***. <br>Yu Ma, Rui Mao, ***Qika Lin***, Peng Wu, Erik Cambria. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S1566253523004815)
+- ``Information Fusion`` ***Quantitative stock portfolio optimization by multi-task learning risk and return***. <span style="color:red">[CAAI-A]</span><br>Yu Ma, Rui Mao, ***Qika Lin***, Peng Wu, Erik Cambria. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S1566253523004815)
   
 ## 2023
 - ``ACL 2023`` ***TECHS: Temporal Logical Graph Networks for Explainable Extrapolation Reasoning***. <span style="color:red">[CCF-A]</span><br>***Qika Lin***, Jun Liu, Rui Mao, Fangzhi Xu, Erik Cambria. [[Paper]](https://aclanthology.org/2023.acl-long.71.pdf) [[Code]](https://github.com/DeepReasoning/TECHS) 
 - ```IEEE TKDE``` ***Contrastive Graph Representations for Logical Formulas Embedding***. <span style="color:red">[CCF-A]</span><br>***Qika Lin***, Jun Liu, Lingling Zhang, Yudai Pan, Xin Hu, Fangzhi Xu, Hongwei Zeng. [[Paper]](https://ieeexplore.ieee.org/document/9667296/)
 - ```IEEE TKDE``` ***Recommending Learning Objects through Attentive Heterogeneous Graph Convolution and Operation-Aware Neural Network***. <span style="color:red">[CCF-A]</span><br>Yifan Zhu‡, ***Qika Lin‡***, Hao Lu, Kaize Shi, Donglei Liu, James Chambua, Shanshan Wan, and Zhendong Niu. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9606527)
-- ```Information Fusion``` ***Fusing Topology Contexts and Logical Rules in Language Models for Knowledge Graph Completion***. <br>***Qika Lin***, Rui Mao, Jun Liu, Fangzhi Xu, Erik Cambria. [[Paper]](https://linkinghub.elsevier.com/retrieve/pii/S1566253522001592)
+- ```Information Fusion``` ***Fusing Topology Contexts and Logical Rules in Language Models for Knowledge Graph Completion***. <span style="color:red">[CAAI-A]</span><br>***Qika Lin***, Rui Mao, Jun Liu, Fangzhi Xu, Erik Cambria. [[Paper]](https://linkinghub.elsevier.com/retrieve/pii/S1566253522001592)
 - ``KDD 2023`` ***WinGNN: Dynamic Graph Neural Networks with Random Gradient Aggregation Window***. <span style="color:red">[CCF-A]</span><br>Yifan Zhu, Fangpeng Cong, Dan Zhang, Wenwen Gong, ***Qika Lin***, Wenzheng Feng, Yuxiao Dong, and Jie Tang. [[Paper]](https://dl.acm.org/doi/abs/10.1145/3580305.3599551) [[Code]](https://github.com/THUDM/WinGNN) 
 - ```IEEE TKDE``` ***MuL-GRN: Multi-Level Graph Relation Network for Few-Shot Node Classification***. <span style="color:red">[CCF-A]</span><br>Lingling Zhang, Shaowei Wang, Jun Liu, Xiaojun Chang, ***Qika Lin***, Zongyuan Ge, Qinghua Zheng. [[Paper]](https://ieeexplore.ieee.org/document/9779997)
 - ```IEEE TNNLS``` ***Mind Reasoning Manners: Enhancing Type Perception for Generalized Zeroshot Logical Reasoning over Text***. <span style="color:red">[CCF-B]</span><br>Fangzhi Xu, Jun Liu\*, ***Qika Lin\****, Tianzhe Zhao, Jian Zhang, Lingling Zhang. [[Paper]](https://ieeexplore.ieee.org/document/10267912) [[Code]](https://github.com/xufangzhi/TaCo) 
 - ```IEEE TNNLS``` ***Multitask Learning for Visual Question Answering***. <span style="color:red">[CCF-B]</span><br>Jie Ma, Jun Liu, ***Qika Lin***, Bei Wu, Yaxian Wang, Yang You. [[Paper]](https://ieeexplore.ieee.org/document/9525040)
-- ```Information Fusion``` ***Multi-source aggregated classification for stock price movement prediction***. <br>Yu Ma, Rui Mao, ***Qika Lin***, Peng Wu, Erik Cambria. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S1566253522002019?via%3Dihub)
+- ```Information Fusion``` ***Multi-source aggregated classification for stock price movement prediction***. <span style="color:red">[CAAI-A]</span><br>Yu Ma, Rui Mao, ***Qika Lin***, Peng Wu, Erik Cambria. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S1566253522002019?via%3Dihub)
 - ```Pattern Recognition``` ***MoCA: Incorporating domain pretraining and cross attention for textbook question answering***. <span style="color:red">[CCF-B]</span><br>Fangzhi Xu, ***Qika Lin***, Jun Liu, Lingling Zhang, Tianzhe Zhao, Qi Chai, Yudai Pan, Yi Huang, Qianying Wang. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0031320323002893?via%3Dihub) [[Code]](https://github.com/xufangzhi/MoCA) 
 - ```IEEE TCSVT``` ***Spatial-aware Multimodal Graph Network for Textbook Question Answering***. <span style="color:red">[CCF-B]</span><br>Yaxian Wang, Bifan Wei, Jun Liu, ***Qika Lin***, Lingling Zhang. [[Paper]](https://ieeexplore.ieee.org/document/9996417)
 
@@ -131,10 +131,10 @@ Conference on Behavioural and Social Computing (BESC), 2024.
 
 ## Journal Reviewer (Selected)
 
-- IEEE Transactions on Pattern Analysis and Machine Intelligence (CCF A)
-- International Journal of Computer Vision (CCF A)
-- IEEE Transactions on Knowledge and Data Engineering (CCF A)
-- IEEE Transactions on Mobile Computing (CCF A)
+- IEEE Transactions on Pattern Analysis and Machine Intelligence (CCF-A)
+- International Journal of Computer Vision (CCF-A)
+- IEEE Transactions on Knowledge and Data Engineering (CCF-A)
+- IEEE Transactions on Mobile Computing (CCF-A)
 - IEEE Transactions on Neural Networks and Learning Systems
 - IEEE Transactions on Industrial Informatics
 - IEEE Transactions on Computational Social Systems
