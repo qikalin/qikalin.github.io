@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-My primary research interests lie in knowledge acquisition, knowledge representation, and knowledge reasoning based on deep learning techniques. The ultimate goal of my research is to develop an artificial intelligence (AI) machine that can perceive, reason, and plan in real-world scenarios like humans. The research fields involve: ***Knowledge Graph (KG)***, ***Logical Reasoning***, and ***Large Language Model (LLM)***. Moving forward, my focus will be on exploring the potential of AI in multimodal healthcare and education applications.
+My primary research interests lie in knowledge acquisition, knowledge representation, and knowledge reasoning based on deep learning techniques. The ultimate goal of my research is to develop an artificial intelligence (AI) machine that can perceive, reason, and plan in real-world scenarios like humans. The research fields involve: ***Knowledge Graph (KG)***, ***Logical Reasoning***, and ***Large Language Model (LLM)***. Moving forward, my focus will be on exploring the potential of AI in multimodal ***healthcare*** and ***education*** applications.
 
 I currently work as a Research Fellow in NUS. For my full (and timely) publication list, please refer to my Google scholar <a href='https://scholar.google.com/citations?user=k8BKz0MAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
