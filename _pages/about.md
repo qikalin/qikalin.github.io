@@ -107,7 +107,7 @@ I currently work as a Research Fellow in NUS. For my full (and timely) publicati
 - *2021.10 - 2022.10*, Joint Ph.D. at CCDS, Nanyang Technological University, Singapore. (Supervisor: [Prof. Erik Cambria](https://scholar.google.com/citations?user=ilSYpW0AAAAJ))
 - *2019.09 - 2023.06*, Ph.D. at School of Computer Science and Technology, Xi'an Jiaotong University, Shannxi, China. (Supervisor: [Prof. Jun Liu](https://gr.xjtu.edu.cn/web/liukeen))
 - *2016.09 - 2019.06*, M.E. at School of Computer Science and Technology, Beijing Institute of Technology, Beijing, China. (Supervisor: [Prof. Zhendong Niu](https://cs.bit.edu.cn/szdw/jsml/js/nzd/index.htm))
-- *2012.09 - 2019.06*, B.E. at School of Chemical Engineering and Environment, Beijing Institute of Technology, Beijing, China. 
+- *2012.09 - 2016.06*, B.E. at School of Chemical Engineering and Environment, Beijing Institute of Technology, Beijing, China. 
 
 # 🎤 Academic Projects & Services
 <span class='anchor' id='-social'></span>
