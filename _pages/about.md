@@ -144,9 +144,7 @@ Conference on Behavioural and Social Computing (BESC), 2024.
 - ACM Transactions on Knowledge Discovery from Data
 - ACM Transactions on Intelligent Systems and Technology
 - ACM Transactions on Software Engineering and Methodology
-- Information Fusion
-- Information Processing and Management
-- Neurocomputing
+- Information Fusion, Information Processing and Management, Neural Networks, Knowledge-Based Systems, Neurocomputing
 
 <!--
 # Students
