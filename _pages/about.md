@@ -30,6 +30,7 @@ I currently work as a Research Fellow in NUS. For my full (and timely) publicati
 
 # 🔥 News
 <span class='anchor' id='-news'></span>
+- *2024.11*:&nbsp;🚀🚀CFPs: Our survey paper on Multimodel Healthcare is accepted by Information Fusion (2023 IF 14.7).
 - *2024.11*:&nbsp;🚀🚀CFPs: Our Special Issue of [GenAI for Information Fusion](https://www-sciencedirect-com.libproxy1.nus.edu.sg/special-issue/316104/genai-for-information-fusion) in Information Fusion (2023 IF 14.7).
 - *2024.02*:&nbsp;🚀🚀CFPs: Our Special Issue of [Multimodal Representation and Reasoning for Social Computing](https://www.ieeesmc.org/wp-content/uploads/2024/02/Multimodal-Representation-and-Reasoning-for-Social-Computing-CFP.pdf) in IEEE TCSS (2023 IF 4.5).
 
@@ -43,7 +44,6 @@ I currently work as a Research Fellow in NUS. For my full (and timely) publicati
 ## Preprint
 
 - Jingying Ma, ***Qika Lin***, Ziyu Jia, Mengling Feng, ***STUSleepNet: A SpatialTemporal Coupling Prominence Network for MultiChannel Sleep Staging***. [[Paper]](https://arxiv.org/pdf/2408.11884)
-- ***Qika Lin***, Yifan Zhu, Xin Mei, Ling Huang, Jingying Ma, Kai He, Zhen Peng, Erik Cambria, Mengling Feng, ***Has Multimodal Learning Delivered Universal Intelligence in Healthcare? A Comprehensive Survey***. [[Paper]](https://arxiv.org/pdf/2408.12880)
 - Fangzhi Xu‡, ***Qika Lin‡\****, Jiawei Han, Tianzhe Zhao, Jun Liu, Erik Cambria, ***Are Large Language Models Really Good Logical Reasoners? A Comprehensive Evaluation and Beyond***. [[Paper]](https://arxiv.org/pdf/2306.09841)
 - Kai He, Rui Mao, ***Qika Lin***, Yucheng Ruan, Xiang Lan, Mengling Feng, Erik Cambria. ***A Survey of Large Language Models for Healthcare: from Data, Technology, and Applications to Accountability and Ethics***.[[Paper]](https://arxiv.org/pdf/2310.05694)
 
@@ -51,6 +51,7 @@ I currently work as a Research Fellow in NUS. For my full (and timely) publicati
 
 ## 2024
 
+- ``Information Fusion`` ***Has Multimodal Learning Delivered Universal Intelligence in Healthcare? A Comprehensive Survey***. <span style="color:red">[CAAI-A]</span><br>***Qika Lin***, Yifan Zhu, Xin Mei, Ling Huang, Jingying Ma, Kai He, Zhen Peng, Erik Cambria, Mengling Feng. [[Paper]](https://arxiv.org/pdf/2408.12880) [[Code]](https://github.com/DeepReasoning/aihealth) 
 - ``ACL 2024`` ***PathReasoner: Modeling Reasoning Path with Equivalent Extension for Logical Question Answering***. <span style="color:red">[CCF-A]</span><br>Fangzhi Xu, ***Qika Lin\****, Tianzhe Zhao, Jiawei Han, Jun Liu\*. [[Paper]](https://aclanthology.org/2024.acl-long.724/)
 - ``ACL 2024`` ***Symbol-LLM: Towards Foundational Symbolcentric Interface For Large Language Models***. <span style="color:red">[CCF-A]</span><br>Fangzhi Xu, Zhiyong Wu, Qiushi Sun, Siyu Ren, Fei Yuan, Shuai Yuan, ***Qika Lin***, Yu Qiao, Jun Liu. [[Paper]](https://aclanthology.org/2024.acl-long.707/) [[Code]](https://github.com/xufangzhi/Symbol-LLM) 
 - ``IJCAI 2024`` ***Understanding Public Perception Towards Weather Disasters Through the Lens of Metaphor***. <span style="color:red">[CCF-A]</span><br>Rui Mao, ***Qika Lin***, Qiawen Liu, Gianmarco Mengaldo, Erik Cambria. [[Paper]](https://www.ijcai.org/proceedings/2024/818)
@@ -158,4 +159,6 @@ Conference on Behavioural and Social Computing (BESC), 2024.
 - ***PhD students***: Yu Feng (Co-advised with Prof. Meina Song), Weibin Liao (Co-advised with Prof. Xuesong Li), Gen Shi (Co-advised with Prof. Xuesong Li)
 -->
 
+<!--
 # 🌏 Visitors
+-->
