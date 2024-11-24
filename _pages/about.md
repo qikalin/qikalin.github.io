@@ -48,10 +48,13 @@ I currently work as a Research Fellow in NUS. For my full (and timely) publicati
 - Kai He, Rui Mao, ***Qika Lin***, Yucheng Ruan, Xiang Lan, Mengling Feng, Erik Cambria. ***A Survey of Large Language Models for Healthcare: from Data, Technology, and Applications to Accountability and Ethics***.[[Paper]](https://arxiv.org/pdf/2310.05694)
 
 
+## 2025
+
+- ``Information Fusion`` ***Has Multimodal Learning Delivered Universal Intelligence in Healthcare? A Comprehensive Survey***. <span style="color:red">[CAAI-A]</span><br>***Qika Lin***, Yifan Zhu, Xin Mei, Ling Huang, Jingying Ma, Kai He, Zhen Peng, Erik Cambria, Mengling Feng. [[Paper]](https://www.sciencedirect.com/science/article/pii/S1566253524005736) [[Code]](https://github.com/DeepReasoning/aihealth)
+
 
 ## 2024
 
-- ``Information Fusion`` ***Has Multimodal Learning Delivered Universal Intelligence in Healthcare? A Comprehensive Survey***. <span style="color:red">[CAAI-A]</span><br>***Qika Lin***, Yifan Zhu, Xin Mei, Ling Huang, Jingying Ma, Kai He, Zhen Peng, Erik Cambria, Mengling Feng. [[Paper]](https://arxiv.org/pdf/2408.12880) [[Code]](https://github.com/DeepReasoning/aihealth) 
 - ``ACL 2024`` ***PathReasoner: Modeling Reasoning Path with Equivalent Extension for Logical Question Answering***. <span style="color:red">[CCF-A]</span><br>Fangzhi Xu, ***Qika Lin\****, Tianzhe Zhao, Jiawei Han, Jun Liu\*. [[Paper]](https://aclanthology.org/2024.acl-long.724/)
 - ``ACL 2024`` ***Symbol-LLM: Towards Foundational Symbolcentric Interface For Large Language Models***. <span style="color:red">[CCF-A]</span><br>Fangzhi Xu, Zhiyong Wu, Qiushi Sun, Siyu Ren, Fei Yuan, Shuai Yuan, ***Qika Lin***, Yu Qiao, Jun Liu. [[Paper]](https://aclanthology.org/2024.acl-long.707/) [[Code]](https://github.com/xufangzhi/Symbol-LLM) 
 - ``IJCAI 2024`` ***Understanding Public Perception Towards Weather Disasters Through the Lens of Metaphor***. <span style="color:red">[CCF-A]</span><br>Rui Mao, ***Qika Lin***, Qiawen Liu, Gianmarco Mengaldo, Erik Cambria. [[Paper]](https://www.ijcai.org/proceedings/2024/818)
