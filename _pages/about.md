@@ -43,6 +43,7 @@ I currently work as a Research Fellow in NUS. For my full (and timely) publicati
 
 ## Preprint
 
+- Ling Huang, Yucheng Xing, ***Qika Lin***, Su Ruan, Mengling Feng, ***EsurvFusion: An evidential multimodal survival fusion model based on Gaussian random fuzzy numbers***. [[Paper]](https://arxiv.org/pdf/2412.01215)
 - Jingying Ma, ***Qika Lin***, Ziyu Jia, Mengling Feng, ***STUSleepNet: A SpatialTemporal Coupling Prominence Network for MultiChannel Sleep Staging***. [[Paper]](https://arxiv.org/pdf/2408.11884)
 - Fangzhi Xu‡, ***Qika Lin‡\****, Jiawei Han, Tianzhe Zhao, Jun Liu, Erik Cambria, ***Are Large Language Models Really Good Logical Reasoners? A Comprehensive Evaluation and Beyond***. [[Paper]](https://arxiv.org/pdf/2306.09841)
 - Kai He, Rui Mao, ***Qika Lin***, Yucheng Ruan, Xiang Lan, Mengling Feng, Erik Cambria. ***A Survey of Large Language Models for Healthcare: from Data, Technology, and Applications to Accountability and Ethics***.[[Paper]](https://arxiv.org/pdf/2310.05694)
