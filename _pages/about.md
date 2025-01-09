@@ -138,7 +138,7 @@ I currently work as a Research Fellow in NUS. For my full (and timely) publicati
 - ***Area Chair***: IJCNN'25.
 - ***Special Session Chair*** of [Knowledgedriven Graph Learning for Social Behavioral and Medical Data](https://besc-conf.org/2024/special-session-3), the International
 Conference on Behavioural and Social Computing (BESC), 2024.
-- ***Program Committee Member***: COLING'22-25, LOG'22-23, EMNLP'22-24, ACL'23-24, SIGIR'23-24, NeurIPS'24, ICLR'25, AISTATS'25, ICML'25, IJCAI'25, etc.
+- ***Program Committee Member***: COLING'22-25, LOG'22-23, EMNLP'22-24, ACL'23-24, SIGIR'23-25, NeurIPS'24, ICLR'25, AISTATS'25, ICML'25, IJCAI'25, etc.
 
 
 
