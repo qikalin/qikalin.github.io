@@ -51,7 +51,7 @@ I currently work as a Research Fellow in NUS. For my full (and timely) publicati
 
 ## 2025
 
-- ``Information Fusion`` ***Has Multimodal Learning Delivered Universal Intelligence in Healthcare? A Comprehensive Survey***. <span style="color:red">[CAAI-A]</span><br>***Qika Lin***, Yifan Zhu, Xin Mei, Ling Huang, Jingying Ma, Kai He, Zhen Peng, Erik Cambria, Mengling Feng. [[Paper]](https://www.sciencedirect.com/science/article/pii/S1566253524005736) [[Code]](https://github.com/DeepReasoning/aihealth)
+- ``Information Fusion`` ***Has Multimodal Learning Delivered Universal Intelligence in Healthcare? A Comprehensive Survey***. <span style="color:red">[CAAI-A]</span><br>***Qika Lin***, Yifan Zhu, Xin Mei, Ling Huang, Jingying Ma, Kai He, Zhen Peng, Erik Cambria, Mengling Feng. [[Paper]](https://www.sciencedirect.com/science/article/pii/S1566253524005736) [[Code]](https://github.com/DeepReasoning/aihealth) [[BibTeX]](https://scholar.googleusercontent.com/scholar.bib?q=info:NAeE3D17Mz8J:scholar.google.com/&output=citation&scisdr=ClE57f2VEIjazsRlbAk:AFWwaeYAAAAAZ39jdAkNZnDfhknBaDkjXyD9ZiU&scisig=AFWwaeYAAAAAZ39jdKXnXdoTzdYW8vG_vyoMBSw&scisf=4&ct=citation&cd=-1&hl=en)
 
 
 ## 2024
