@@ -127,29 +127,20 @@ I currently work as a Research Fellow in NUS. For my full (and timely) publicati
 - *2024.02 - 2024.11*, ***Guest Editor (corresponding)*** of [Multimodal Representation and Reasoning for Social Computing](https://www.ieeesmc.org/wp-content/uploads/2024/02/Multimodal-Representation-and-Reasoning-for-Social-Computing-CFP.pdf) in IEEE Transactions on Computational Social Systems.
 - *2023.10 - 2024.06*, ***Guest Editor*** of [Applied Artificial Intelligence Approach: Intelligent Data Processing and Mining with Online Behaviors](https://www.mdpi.com/journal/electronics/special_issues/D3L8Y3L5S7) in Electronics.
 
-## Conference Service
-
-- ***Special Session Chair*** of [Knowledgedriven Graph Learning for Social Behavioral and Medical Data](https://besc-conf.org/2024/special-session-3), the International
-Conference on Behavioural and Social Computing (BESC), 2024.
-- ***Program Committee Member*** of COLING'22-25, LOG'22-23, EMNLP'22-24, ACL'23-24, SIGIR'23-24, NeurIPS'24, ICLR'25, AISTATS'25, etc.
-
-
 ## Journal Reviewer (Selected)
 
-- IEEE Transactions on Pattern Analysis and Machine Intelligence (CCF-A)
-- International Journal of Computer Vision (CCF-A)
-- IEEE Transactions on Knowledge and Data Engineering (CCF-A)
-- IEEE Transactions on Mobile Computing (CCF-A)
-- IEEE Transactions on Neural Networks and Learning Systems
-- IEEE Transactions on Industrial Informatics
-- IEEE Transactions on Computational Social Systems
-- IEEE Transactions on Circuits and Systems for Video Technology
-- IEEE Transactions on Big Data
-- IEEE Intelligent Systems
-- ACM Transactions on Knowledge Discovery from Data
-- ACM Transactions on Intelligent Systems and Technology
-- ACM Transactions on Software Engineering and Methodology
-- Information Fusion, Information Processing and Management, Neural Networks, Knowledge-Based Systems, Neurocomputing
+- ***IEEE***: IEEE Transactions on Pattern Analysis and Machine Intelligence (CCF-A), IEEE Transactions on Knowledge and Data Engineering (CCF-A), IEEE Transactions on Mobile Computing (CCF-A), IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Industrial Informatics, IEEE Transactions on Computational Social Systems, IEEE Internet of Things Journal, IEEE Transactions on Circuits and Systems for Video Technology, IEEE Transactions on Big Data, IEEE Intelligent Systems, etc.
+- ***ACM***: ACM Transactions on Knowledge Discovery from Data, ACM Transactions on Intelligent Systems and Technology, ACM Transactions on Software Engineering and Methodology.
+- ***Springer***: International Journal of Computer Vision (CCF-A), Cognitive Computation.
+- ***Elsevier***: Information Fusion, Information Processing and Management, Neural Networks, Knowledge-Based Systems, Neurocomputing, etc.
+
+## Conference Service
+- ***Area Chair***: IJCNN'25.
+- ***Special Session Chair*** of [Knowledgedriven Graph Learning for Social Behavioral and Medical Data](https://besc-conf.org/2024/special-session-3), the International
+Conference on Behavioural and Social Computing (BESC), 2024.
+- ***Program Committee Member***: COLING'22-25, LOG'22-23, EMNLP'22-24, ACL'23-24, SIGIR'23-24, NeurIPS'24, ICLR'25, AISTATS'25, ICML'25, IJCAI'25, etc.
+
+
 
 <!--
 # Students
