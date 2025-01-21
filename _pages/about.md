@@ -46,11 +46,12 @@ I currently work as a Research Fellow in NUS. For my full (and timely) publicati
 - Ling Huang, Yucheng Xing, ***Qika Lin***, Su Ruan, Mengling Feng, ***EsurvFusion: An evidential multimodal survival fusion model based on Gaussian random fuzzy numbers***. [[Paper]](https://arxiv.org/pdf/2412.01215) [[BibTeX]]()
 - Jingying Ma, ***Qika Lin***, Ziyu Jia, Mengling Feng, ***STUSleepNet: A SpatialTemporal Coupling Prominence Network for MultiChannel Sleep Staging***. [[Paper]](https://arxiv.org/pdf/2408.11884) [[BibTeX]](https://dblp.org/rec/journals/corr/abs-2408-11884.html?view=bibtex)
 - Fangzhi Xu‡, ***Qika Lin‡\****, Jiawei Han, Tianzhe Zhao, Jun Liu, Erik Cambria, ***Are Large Language Models Really Good Logical Reasoners? A Comprehensive Evaluation and Beyond***. [[Paper]](https://arxiv.org/pdf/2306.09841) [[BibTeX]](https://dblp.org/rec/journals/corr/abs-2306-09841.html?view=bibtex)
-- Kai He, Rui Mao, ***Qika Lin***, Yucheng Ruan, Xiang Lan, Mengling Feng, Erik Cambria. ***A Survey of Large Language Models for Healthcare: from Data, Technology, and Applications to Accountability and Ethics***.[[Paper]](https://arxiv.org/pdf/2310.05694) [[BibTeX]](https://dblp.org/rec/journals/corr/abs-2310-05694.html?view=bibtex)
+
 
 
 ## 2025
 
+- ``Information Fusion`` ***A Survey of Large Language Models for Healthcare: from Data, Technology, and Applications to Accountability and Ethics***. <span style="color:red">[CAAI-A]</span><br>Kai He, Rui Mao, ***Qika Lin***, Yucheng Ruan, Xiang Lan, Mengling Feng, Erik Cambria. [[Paper]](https://arxiv.org/pdf/2310.05694) [[BibTeX]](https://dblp.org/rec/journals/corr/abs-2310-05694.html?view=bibtex)
 - ``Information Fusion`` ***Has Multimodal Learning Delivered Universal Intelligence in Healthcare? A Comprehensive Survey***. <span style="color:red">[CAAI-A]</span><br>***Qika Lin***, Yifan Zhu, Xin Mei, Ling Huang, Jingying Ma, Kai He, Zhen Peng, Erik Cambria, Mengling Feng. [[Paper]](https://www.sciencedirect.com/science/article/pii/S1566253524005736) [[Code]](https://github.com/DeepReasoning/aihealth) [[BibTeX]](https://dblp.org/rec/journals/inffus/LinZMHMHPCF25.html?view=bibtex)
 
 
