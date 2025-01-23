@@ -51,6 +51,7 @@ I currently work as a Research Fellow in NUS. For my full (and timely) publicati
 
 ## 2025
 
+- ``Neural Networks`` ***When Bipartite Graph Learning Meets Anomaly Detection in Attributed Networks: Understand Abnormalities from Each Attribute***. <span style="color:red">[CCF-B]</span><br>Zhen Peng, Yunfan Wang, ***Qika Lin***, Bo Dong, Chao Shen. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0893608025000735) [[BibTeX]](https://dblp.org/rec/journals/corr/abs-2310-05694.html?view=bibtex)
 - ``Information Fusion`` ***A Survey of Large Language Models for Healthcare: from Data, Technology, and Applications to Accountability and Ethics***. <span style="color:red">[CAAI-A]</span><br>Kai He, Rui Mao, ***Qika Lin***, Yucheng Ruan, Xiang Lan, Mengling Feng, Erik Cambria. [[Paper]](https://arxiv.org/pdf/2310.05694) [[BibTeX]](https://dblp.org/rec/journals/corr/abs-2310-05694.html?view=bibtex)
 - ``Information Fusion`` ***Has Multimodal Learning Delivered Universal Intelligence in Healthcare? A Comprehensive Survey***. <span style="color:red">[CAAI-A]</span><br>***Qika Lin***, Yifan Zhu, Xin Mei, Ling Huang, Jingying Ma, Kai He, Zhen Peng, Erik Cambria, Mengling Feng. [[Paper]](https://www.sciencedirect.com/science/article/pii/S1566253524005736) [[Code]](https://github.com/DeepReasoning/aihealth) [[BibTeX]](https://dblp.org/rec/journals/inffus/LinZMHMHPCF25.html?view=bibtex)
 
@@ -139,7 +140,7 @@ I currently work as a Research Fellow in NUS. For my full (and timely) publicati
 - ***Area Chair***: IJCNN'25.
 - ***Special Session Chair*** of [Knowledgedriven Graph Learning for Social Behavioral and Medical Data](https://besc-conf.org/2024/special-session-3), the International
 Conference on Behavioural and Social Computing (BESC), 2024.
-- ***Program Committee Member***: COLING'22-25, LOG'22-23, EMNLP'22-24, ACL'23-24, SIGIR'23-25, NeurIPS'24, ICLR'25, AISTATS'25, ICML'25, IJCAI'25, etc.
+- ***Program Committee Member***: COLING'22-25, LOG'22-23, EMNLP'22-24, ACL'23-24, SIGIR'23-25, NeurIPS'24, ICLR'25, AISTATS'25, ICML'25, KDD'25, IJCAI'25, etc.
 
 
 
