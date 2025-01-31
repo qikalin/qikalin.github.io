@@ -44,6 +44,8 @@ I currently work as a Research Fellow in NUS. For my full (and timely) publicati
 
 ## Preprint
 
+- ***Qika Lin***, Tianzhe Zhao, Kai He, Zhen Peng, Fangzhi Xu, Ling Huang, Jingying Ma, Mengling Feng, ***Self-supervised Quantized Representation for Seamlessly Integrating
+Knowledge Graphs with Large Language Models***. [[Paper]](https://arxiv.org/pdf/2501.18119) [[BibTeX]]()
 - Ling Huang, Yucheng Xing, ***Qika Lin***, Su Ruan, Mengling Feng, ***EsurvFusion: An evidential multimodal survival fusion model based on Gaussian random fuzzy numbers***. [[Paper]](https://arxiv.org/pdf/2412.01215) [[BibTeX]]()
 - Jingying Ma, ***Qika Lin***, Ziyu Jia, Mengling Feng, ***STUSleepNet: A SpatialTemporal Coupling Prominence Network for MultiChannel Sleep Staging***. [[Paper]](https://arxiv.org/pdf/2408.11884) [[BibTeX]](https://dblp.org/rec/journals/corr/abs-2408-11884.html?view=bibtex)
 
