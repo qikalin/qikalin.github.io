@@ -44,6 +44,8 @@ I currently work as a Research Fellow in NUS. For my full (and timely) publicati
 
 ## Preprint
 
+- ***Qika Lin***, Zhen Peng, Kaize Shi, Kai He, Yiming Xu, Erik Cambria, Mengling Feng, ***A Survey of Quantized Graph Representation Learning: Connecting
+Graph Structures with Large Language Models***. [[Paper]]() [[BibTeX]]()
 - ***Qika Lin***, Tianzhe Zhao, Kai He, Zhen Peng, Fangzhi Xu, Ling Huang, Jingying Ma, Mengling Feng, ***Self-supervised Quantized Representation for Seamlessly Integrating
 Knowledge Graphs with Large Language Models***. [[Paper]](https://arxiv.org/pdf/2501.18119) [[BibTeX]]()
 - Ling Huang, Yucheng Xing, ***Qika Lin***, Su Ruan, Mengling Feng, ***EsurvFusion: An evidential multimodal survival fusion model based on Gaussian random fuzzy numbers***. [[Paper]](https://arxiv.org/pdf/2412.01215) [[BibTeX]]()
@@ -133,7 +135,7 @@ Knowledge Graphs with Large Language Models***. [[Paper]](https://arxiv.org/pdf/
 
 ## Journal Reviewer (Selected)
 
-- ***IEEE***: IEEE Transactions on Pattern Analysis and Machine Intelligence (CCF-A), IEEE Transactions on Knowledge and Data Engineering (CCF-A), IEEE Transactions on Mobile Computing (CCF-A), IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Industrial Informatics, IEEE Transactions on Computational Social Systems, IEEE Internet of Things Journal, IEEE Transactions on Circuits and Systems for Video Technology, IEEE Transactions on Big Data, IEEE Intelligent Systems, etc.
+- ***IEEE***: IEEE Transactions on Pattern Analysis and Machine Intelligence (CCF-A), IEEE Transactions on Knowledge and Data Engineering (CCF-A), IEEE Transactions on Mobile Computing (CCF-A), IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Industrial Informatics, IEEE Transactions on Multimedia, IEEE Transactions on Computational Social Systems, IEEE Internet of Things Journal, IEEE Transactions on Circuits and Systems for Video Technology, IEEE Transactions on Big Data, IEEE Intelligent Systems, etc.
 - ***ACM***: ACM Transactions on Knowledge Discovery from Data, ACM Transactions on Intelligent Systems and Technology, ACM Transactions on Software Engineering and Methodology.
 - ***Springer***: International Journal of Computer Vision (CCF-A), Cognitive Computation.
 - ***Elsevier***: Information Fusion, Information Processing and Management, Neural Networks, Knowledge-Based Systems, Neurocomputing, etc.
