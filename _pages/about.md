@@ -46,7 +46,7 @@ I currently work as a Research Fellow in NUS. For my full (and timely) publicati
 
 - Haoran Luo, Haihong E, Yikai Guo, ***Qika Lin***, Xiaobao Wu, Xinyu Mu, Wenhao Liu, Meina Song, Yifan Zhu, Luu Anh Tuan, ***KBQA-o1: Agentic Knowledge Base Question Answering with Monte Carlo Tree Search***. [[Paper]](https://arxiv.org/pdf/2501.18922) [[BibTeX]]()
 - ***Qika Lin***, Zhen Peng, Kaize Shi, Kai He, Yiming Xu, Erik Cambria, Mengling Feng, ***A Survey of Quantized Graph Representation Learning: Connecting
-Graph Structures with Large Language Models***. [[Paper]]() [[BibTeX]]()
+Graph Structures with Large Language Models***. [[Paper]](https://arxiv.org/pdf/2502.00681) [[BibTeX]]()
 - ***Qika Lin***, Tianzhe Zhao, Kai He, Zhen Peng, Fangzhi Xu, Ling Huang, Jingying Ma, Mengling Feng, ***Self-supervised Quantized Representation for Seamlessly Integrating
 Knowledge Graphs with Large Language Models***. [[Paper]](https://arxiv.org/pdf/2501.18119) [[BibTeX]]()
 - Ling Huang, Yucheng Xing, ***Qika Lin***, Su Ruan, Mengling Feng, ***EsurvFusion: An evidential multimodal survival fusion model based on Gaussian random fuzzy numbers***. [[Paper]](https://arxiv.org/pdf/2412.01215) [[BibTeX]]()
