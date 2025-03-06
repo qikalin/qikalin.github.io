@@ -134,11 +134,11 @@ Knowledge Graphs with Large Language Models***. [[Paper]](https://arxiv.org/pdf/
 - *2024.02 - 2024.11*, ***Guest Editor (corresponding)*** of [Multimodal Representation and Reasoning for Social Computing](https://www.ieeesmc.org/wp-content/uploads/2024/02/Multimodal-Representation-and-Reasoning-for-Social-Computing-CFP.pdf) in IEEE Transactions on Computational Social Systems.
 - *2023.10 - 2024.06*, ***Guest Editor*** of [Applied Artificial Intelligence Approach: Intelligent Data Processing and Mining with Online Behaviors](https://www.mdpi.com/journal/electronics/special_issues/D3L8Y3L5S7) in Electronics.
 
-## Journal Reviewer (Selected)
+## Journal Reviewer
 
 - ***IEEE***: IEEE Transactions on Pattern Analysis and Machine Intelligence (CCF-A), IEEE Transactions on Knowledge and Data Engineering (CCF-A), IEEE Transactions on Mobile Computing (CCF-A), IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Industrial Informatics, IEEE Transactions on Multimedia, IEEE Transactions on Computational Social Systems, IEEE Internet of Things Journal, IEEE Transactions on Circuits and Systems for Video Technology, IEEE Transactions on Big Data, IEEE Intelligent Systems, etc.
-- ***ACM***: ACM Transactions on Knowledge Discovery from Data, ACM Transactions on Intelligent Systems and Technology, ACM Transactions on Software Engineering and Methodology.
-- ***Springer***: International Journal of Computer Vision (CCF-A), Cognitive Computation.
+- ***ACM***: ACM Transactions on Knowledge Discovery from Data, ACM Transactions on Intelligent Systems and Technology, ACM Transactions on Software Engineering and Methodology, etc.
+- ***Springer***: International Journal of Computer Vision (CCF-A), Cognitive Computation, etc.
 - ***Elsevier***: Artificial Intelligence (CCF-A), Information Fusion, Information Processing and Management, Neural Networks, Knowledge-Based Systems, Neurocomputing, etc.
 
 ## Conference Service
