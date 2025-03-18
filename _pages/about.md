@@ -44,6 +44,7 @@ I currently work as a Research Fellow in NUS. For my full (and timely) publicati
 
 ## Preprint
 
+- Fangzhi Xu, Hang Yan, Chang Ma, Haiteng Zhao, Jun Liu✉, ***Qika Lin***✉, Zhiyong Wu✉, ***ϕ -Decoding: Adaptive Foresight Sampling for Balanced Inference-Time Exploration and Exploitation***. [[Paper]](https://arxiv.org/pdf/2503.13288) [[BibTeX]]()
 - Jian Zhang, Bifan Wei, Shihao Qi, Haiping Zhu, Jun Liu, ***Qika Lin***✉, ***GKG-LLM: A Unified Framework for Generalized Knowledge Graph
 Construction***. [[Paper]](https://arxiv.org/pdf/2503.11227) [[BibTeX]]()
 - Haoran Luo, Haihong E, Yikai Guo, ***Qika Lin***, Xiaobao Wu, Xinyu Mu, Wenhao Liu, Meina Song, Yifan Zhu, Luu Anh Tuan, ***KBQA-o1: Agentic Knowledge Base Question Answering with Monte Carlo Tree Search***. [[Paper]](https://arxiv.org/pdf/2501.18922) [[BibTeX]]()
