@@ -44,6 +44,8 @@ I currently work as a Research Fellow in NUS. For my full (and timely) publicati
 
 ## Preprint
 
+- Jian Zhang, Zhiyuan Wang, Zhangqi Wang, Xinyu Zhang, Fangzhi Xu, ***Qika Lin***✉, Rui Mao, Erik Cambria, Jun Liu✉, ***MAPS: A Multi-Agent Framework Based on Big Seven Personality and Socratic Guidance for Multimodal Scientific Problem Solving***. [[Paper]](https://arxiv.org/pdf/2503.16905) [[BibTeX]]()
+- Jian Zhang, Zhangqi Wang, Haiping Zhu, Jun Liu, ***Qika Lin***✉, Erik Cambria✉, ***MARS: A Multi-Agent Framework Incorporating Socratic Guidance for Automated Prompt Optimization***. [[Paper]](https://arxiv.org/pdf/2503.16874) [[BibTeX]]()
 - Fangzhi Xu, Hang Yan, Chang Ma, Haiteng Zhao, Jun Liu✉, ***Qika Lin***✉, Zhiyong Wu✉, ***ϕ -Decoding: Adaptive Foresight Sampling for Balanced Inference-Time Exploration and Exploitation***. [[Paper]](https://arxiv.org/pdf/2503.13288) [[BibTeX]]()
 - Jian Zhang, Bifan Wei, Shihao Qi, Haiping Zhu, Jun Liu, ***Qika Lin***✉, ***GKG-LLM: A Unified Framework for Generalized Knowledge Graph
 Construction***. [[Paper]](https://arxiv.org/pdf/2503.11227) [[BibTeX]]()
@@ -58,7 +60,7 @@ Knowledge Graphs with Large Language Models***. [[Paper]](https://arxiv.org/pdf/
 
 
 ## 2025
-- ``IEEE TKDE`` ***Are Large Language Models Really Good Logical Reasoners? A Comprehensive Evaluation and Beyond***. <span style="color:red">[CCF-A]</span><br>Fangzhi Xu‡, ***Qika Lin‡***✉, Jiawei Han, Tianzhe Zhao, Jun Liu, Erik Cambria. [[Paper]](https://arxiv.org/pdf/2306.09841) [[BibTeX]](https://dblp.org/rec/journals/corr/abs-2306-09841.html?view=bibtex)
+- ``IEEE TKDE`` ***Are Large Language Models Really Good Logical Reasoners? A Comprehensive Evaluation and Beyond***. <span style="color:red">[CCF-A]</span><br>Fangzhi Xu‡, ***Qika Lin‡***✉, Jiawei Han, Tianzhe Zhao, Jun Liu, Erik Cambria. [[Paper]](https://arxiv.org/pdf/2306.09841) [[BibTeX]](https://dblp.org/rec/journals/corr/abs-2306-09841.html?view=bibtex) [[Github]](https://github.com/DeepReasoning/NeuLR)
 - ``Neural Networks`` ***When Bipartite Graph Learning Meets Anomaly Detection in Attributed Networks: Understand Abnormalities from Each Attribute***. <span style="color:red">[CCF-B]</span><br>Zhen Peng, Yunfan Wang, ***Qika Lin***, Bo Dong, Chao Shen. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0893608025000735) [[BibTeX]](https://dblp.org/rec/journals/corr/abs-2310-05694.html?view=bibtex)
 - ``Information Fusion`` ***A Survey of Large Language Models for Healthcare: from Data, Technology, and Applications to Accountability and Ethics***. <span style="color:red">[CAAI-A]</span><br>Kai He, Rui Mao, ***Qika Lin***, Yucheng Ruan, Xiang Lan, Mengling Feng, Erik Cambria. [[Paper]](https://arxiv.org/pdf/2310.05694) [[BibTeX]](https://dblp.org/rec/journals/corr/abs-2310-05694.html?view=bibtex)
 - ``Information Fusion`` ***Has Multimodal Learning Delivered Universal Intelligence in Healthcare? A Comprehensive Survey***. <span style="color:red">[CAAI-A]</span><br>***Qika Lin***, Yifan Zhu, Xin Mei, Ling Huang, Jingying Ma, Kai He, Zhen Peng, Erik Cambria, Mengling Feng. [[Paper]](https://www.sciencedirect.com/science/article/pii/S1566253524005736) [[Code]](https://github.com/DeepReasoning/aihealth) [[BibTeX]](https://dblp.org/rec/journals/inffus/LinZMHMHPCF25.html?view=bibtex)
