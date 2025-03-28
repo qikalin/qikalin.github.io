@@ -44,6 +44,7 @@ I currently work as a Research Fellow in NUS. For my full (and timely) publicati
 
 ## Preprint
 
+-  Haoran Luo, Haihong E, Guanting Chen, Yandan Zheng, Xiaobao Wu, Yikai Guo, ***Qika Lin***, Yu Feng, Zemin Kuang, Meina Song, Yifan Zhu, Luu Anh Tuan, ***HyperGraphRAG: Retrieval-Augmented Generation with Hypergraph-Structured Knowledge Representation***. [[Paper]](https://arxiv.org/pdf/2503.21322) [[BibTeX]]()
 - Jian Zhang, Zhiyuan Wang, Zhangqi Wang, Xinyu Zhang, Fangzhi Xu, ***Qika Lin***✉, Rui Mao, Erik Cambria, Jun Liu✉, ***MAPS: A Multi-Agent Framework Based on Big Seven Personality and Socratic Guidance for Multimodal Scientific Problem Solving***. [[Paper]](https://arxiv.org/pdf/2503.16905) [[BibTeX]]()
 - Jian Zhang, Zhangqi Wang, Haiping Zhu, Jun Liu, ***Qika Lin***✉, Erik Cambria✉, ***MARS: A Multi-Agent Framework Incorporating Socratic Guidance for Automated Prompt Optimization***. [[Paper]](https://arxiv.org/pdf/2503.16874) [[BibTeX]]()
 - Fangzhi Xu, Hang Yan, Chang Ma, Haiteng Zhao, Jun Liu✉, ***Qika Lin***✉, Zhiyong Wu✉, ***ϕ -Decoding: Adaptive Foresight Sampling for Balanced Inference-Time Exploration and Exploitation***. [[Paper]](https://arxiv.org/pdf/2503.13288) [[BibTeX]]()
