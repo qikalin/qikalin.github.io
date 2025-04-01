@@ -30,6 +30,7 @@ I currently work as a Research Fellow in NUS. For my full (and timely) publicati
 
 # 🔥 News
 <span class='anchor' id='-news'></span>
+- *2025.04*:&nbsp;🥳🥳Our study of diffusion-based difference-aware medical VQA is accepted by IEEE TIP.
 - *2025.01*:&nbsp;🥳🥳Our logical reasoning evaluation study of LLMs is accepted by IEEE TKDE.
 - *2024.11*:&nbsp;🥳🥳Our survey paper on Multimodel Healthcare is accepted by Information Fusion (2023 IF 14.7).
 - *2024.11*:&nbsp;🚀🚀CFPs: Our Special Issue of [GenAI for Information Fusion](https://www-sciencedirect-com.libproxy1.nus.edu.sg/special-issue/316104/genai-for-information-fusion) in Information Fusion (2023 IF 14.7).
@@ -61,6 +62,7 @@ Knowledge Graphs with Large Language Models***. [[Paper]](https://arxiv.org/pdf/
 
 
 ## 2025
+- ``IEEE TIP`` ***Cross-modal Knowledge Diffusion-based Generation for Difference-aware Medical VQA***. <span style="color:red">[CCF-A]</span><br>***Qika Lin***, Kai He, Yifan Zhu, Fangzhi Xu, Erik Cambria, Mengling Feng. [[Paper]]() [[BibTeX]]()
 - ``IEEE TKDE`` ***Are Large Language Models Really Good Logical Reasoners? A Comprehensive Evaluation and Beyond***. <span style="color:red">[CCF-A]</span><br>Fangzhi Xu‡, ***Qika Lin‡***✉, Jiawei Han, Tianzhe Zhao, Jun Liu, Erik Cambria. [[Paper]](https://arxiv.org/pdf/2306.09841) [[BibTeX]](https://dblp.org/rec/journals/corr/abs-2306-09841.html?view=bibtex) [[Github]](https://github.com/DeepReasoning/NeuLR)
 - ``Neural Networks`` ***When Bipartite Graph Learning Meets Anomaly Detection in Attributed Networks: Understand Abnormalities from Each Attribute***. <span style="color:red">[CCF-B]</span><br>Zhen Peng, Yunfan Wang, ***Qika Lin***, Bo Dong, Chao Shen. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0893608025000735) [[BibTeX]](https://dblp.org/rec/journals/corr/abs-2310-05694.html?view=bibtex)
 - ``Information Fusion`` ***A Survey of Large Language Models for Healthcare: from Data, Technology, and Applications to Accountability and Ethics***. <span style="color:red">[CAAI-A]</span><br>Kai He, Rui Mao, ***Qika Lin***, Yucheng Ruan, Xiang Lan, Mengling Feng, Erik Cambria. [[Paper]](https://arxiv.org/pdf/2310.05694) [[BibTeX]](https://dblp.org/rec/journals/corr/abs-2310-05694.html?view=bibtex)
