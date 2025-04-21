@@ -63,6 +63,7 @@ Knowledge Graphs with Large Language Models***. [[Paper]](https://arxiv.org/pdf/
 
 
 ## 2025
+- ``IEEE TAC`` ***Exploring Cognitive and Aesthetic Causality for Multimodal Aspect-Based Sentiment Analysis***. <span style="color:red">[CCF-B]</span><br>Luwei Xiao, Rui Mao, Shuai Zhao, ***Qika Lin***, Yanhao Jia, Liang He, Erik Cambria. [[Paper]]() [[BibTeX]]()
 - ``SIGIR 2025`` ***GlFoMR: A Glance-then-Focus Multimodal Reasoning Framework for Diagram Question Answering***. <span style="color:red">[CCF-A]</span><br>Yaxian Wang, Bifan Wei, Jun Liu, Lingling Zhang, Shuting He, Jun Li, ***Qika Lin***. [[Paper]]() [[BibTeX]]()
 - ``SIGIR 2025`` ***Rethinking Continual Knowledge Graph Embedding: Benchmarks and Analysis***. <span style="color:red">[CCF-A]</span><br>Tianzhe Zhao, Jiaoyan Chen, Yanchi Ru, ***Qika Lin***✉, Yuxia Geng, Haiping Zhu, Yudai Pan, Jun Liu. [[Paper]]() [[BibTeX]]()
 - ``IEEE TFS`` ***Incorporating Large Vision Model Distillation and Fuzzy Perception for Improving Disease Diagnosis***. <span style="color:red">[CCF-B]</span><br>Zhan Gao‡, ***Qika Lin‡***, Huaxuan Wen, Bin Pu, Mengling Feng, Kenli Li. [[Paper]](https://ieeexplore.ieee.org/document/10960537) [[BibTeX]]()
