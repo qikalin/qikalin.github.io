@@ -30,7 +30,8 @@ I currently work as a Research Fellow in NUS. For my full (and timely) publicati
 
 # 🔥 News
 <span class='anchor' id='-news'></span>
-- *2025.04*:&nbsp;🎉🎉Two papers are accepted by SIGIR 2025, Congrats to Yaxian and Tianzhe.
+- *2025.04*:&nbsp;🎉🎉Two papers are accepted by IJCAI 2025, Congrats to [[Jingying]](https://scholar.google.com.hk/citations?user=44HREuQAAAAJ) and Jiangfeng.
+- *2025.04*:&nbsp;🎉🎉Two papers are accepted by SIGIR 2025, Congrats to [[Yaxian]]() and Tianzhe.
 - *2025.04*:&nbsp;🥳🥳Our study of diffusion-based difference-aware medical VQA is accepted by IEEE TIP.
 - *2025.01*:&nbsp;🥳🥳Our logical reasoning evaluation study of LLMs is accepted by IEEE TKDE.
 - *2024.11*:&nbsp;🥳🥳Our survey paper on Multimodel Healthcare is accepted by Information Fusion (2023 IF 14.7).
@@ -58,14 +59,16 @@ Graph Structures with Large Language Models***. [[Paper]](https://arxiv.org/pdf/
 - ***Qika Lin***, Tianzhe Zhao, Kai He, Zhen Peng, Fangzhi Xu, Ling Huang, Jingying Ma, Mengling Feng, ***Self-supervised Quantized Representation for Seamlessly Integrating
 Knowledge Graphs with Large Language Models***. [[Paper]](https://arxiv.org/pdf/2501.18119) [[BibTeX]]()
 - Ling Huang, Yucheng Xing, ***Qika Lin***, Su Ruan, Mengling Feng, ***EsurvFusion: An evidential multimodal survival fusion model based on Gaussian random fuzzy numbers***. [[Paper]](https://arxiv.org/pdf/2412.01215) [[BibTeX]]()
-- Jingying Ma, ***Qika Lin***, Ziyu Jia, Mengling Feng, ***STUSleepNet: A SpatialTemporal Coupling Prominence Network for MultiChannel Sleep Staging***. [[Paper]](https://arxiv.org/pdf/2408.11884) [[BibTeX]](https://dblp.org/rec/journals/corr/abs-2408-11884.html?view=bibtex)
+
 
 
 
 ## 2025
+- ``IJCAI 2025`` ***Towards Recognizing Spatial-temporal Collaboration of EEG Phase Brain Networks for Emotion Understanding***. <span style="color:red">[CCF-A]</span><br>Jiangfeng Sun, Kaiwen Xue, ***Qika Lin***, Yufei Qiao, Yifan Zhu, Zhonghong Ou, Meina Song. [[Paper]]() [[BibTeX]]()
+- ``IJCAI 2025`` ***STUSleepNet: A SpatialTemporal Coupling Prominence Network for MultiChannel Sleep Staging***. <span style="color:red">[CCF-A]</span><br>Jingying Ma, ***Qika Lin***✉, Ziyu Jia✉, Mengling Feng. [[Paper]](https://arxiv.org/pdf/2408.11884) [[BibTeX]](https://dblp.org/rec/journals/corr/abs-2408-11884.html?view=bibtex)
 - ``IEEE TAC`` ***Exploring Cognitive and Aesthetic Causality for Multimodal Aspect-Based Sentiment Analysis***. <span style="color:red">[CCF-B]</span><br>Luwei Xiao, Rui Mao, Shuai Zhao, ***Qika Lin***, Yanhao Jia, Liang He, Erik Cambria. [[Paper]]() [[BibTeX]]()
 - ``SIGIR 2025`` ***GlFoMR: A Glance-then-Focus Multimodal Reasoning Framework for Diagram Question Answering***. <span style="color:red">[CCF-A]</span><br>Yaxian Wang, Bifan Wei, Jun Liu, Lingling Zhang, Shuting He, Jun Li, ***Qika Lin***. [[Paper]]() [[BibTeX]]()
-- ``SIGIR 2025`` ***Rethinking Continual Knowledge Graph Embedding: Benchmarks and Analysis***. <span style="color:red">[CCF-A]</span><br>Tianzhe Zhao, Jiaoyan Chen, Yanchi Ru, ***Qika Lin***✉, Yuxia Geng, Haiping Zhu, Yudai Pan, Jun Liu. [[Paper]]() [[BibTeX]]()
+- ``SIGIR 2025`` ***Rethinking Continual Knowledge Graph Embedding: Benchmarks and Analysis***. <span style="color:red">[CCF-A]</span><br>Tianzhe Zhao✉, Jiaoyan Chen, Yanchi Ru, ***Qika Lin***✉, Yuxia Geng, Haiping Zhu, Yudai Pan, Jun Liu✉. [[Paper]]() [[BibTeX]]()
 - ``IEEE TFS`` ***Incorporating Large Vision Model Distillation and Fuzzy Perception for Improving Disease Diagnosis***. <span style="color:red">[CCF-B]</span><br>Zhan Gao‡, ***Qika Lin‡***, Huaxuan Wen, Bin Pu, Mengling Feng, Kenli Li. [[Paper]](https://ieeexplore.ieee.org/document/10960537) [[BibTeX]]()
 - ``IEEE TIP`` ***Cross-modal Knowledge Diffusion-based Generation for Difference-aware Medical VQA***. <span style="color:red">[CCF-A]</span><br>***Qika Lin***, Kai He, Yifan Zhu, Fangzhi Xu, Erik Cambria, Mengling Feng. [[Paper]](https://ieeexplore.ieee.org/document/10964089) [[BibTeX]]()
 - ``IEEE TKDE`` ***Are Large Language Models Really Good Logical Reasoners? A Comprehensive Evaluation and Beyond***. <span style="color:red">[CCF-A]</span><br>Fangzhi Xu‡, ***Qika Lin‡***✉, Jiawei Han, Tianzhe Zhao, Jun Liu, Erik Cambria. [[Paper]](https://ieeexplore.ieee.org/document/10870148) [[BibTeX]](https://dblp.org/rec/journals/corr/abs-2306-09841.html?view=bibtex) [[Github]](https://github.com/DeepReasoning/NeuLR)
