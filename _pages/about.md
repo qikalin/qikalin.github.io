@@ -30,8 +30,8 @@ I currently work as a Research Fellow in NUS. For my full (and timely) publicati
 
 # 🔥 News
 <span class='anchor' id='-news'></span>
-- *2025.04*:&nbsp;🎉🎉Two papers are accepted by IJCAI 2025, Congrats to [[Jingying]](https://scholar.google.com.hk/citations?user=44HREuQAAAAJ) and Jiangfeng.
-- *2025.04*:&nbsp;🎉🎉Two papers are accepted by SIGIR 2025, Congrats to [[Yaxian]]() and Tianzhe.
+- *2025.04*:&nbsp;🎉🎉Two papers are accepted by IJCAI 2025, Congrats to [Jingying](https://scholar.google.com.hk/citations?user=44HREuQAAAAJ) and Jiangfeng.
+- *2025.04*:&nbsp;🎉🎉Two papers are accepted by SIGIR 2025, Congrats to Yaxian and Tianzhe.
 - *2025.04*:&nbsp;🥳🥳Our study of diffusion-based difference-aware medical VQA is accepted by IEEE TIP.
 - *2025.01*:&nbsp;🥳🥳Our logical reasoning evaluation study of LLMs is accepted by IEEE TKDE.
 - *2024.11*:&nbsp;🥳🥳Our survey paper on Multimodel Healthcare is accepted by Information Fusion (2023 IF 14.7).
