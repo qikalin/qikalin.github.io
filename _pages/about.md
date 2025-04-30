@@ -33,6 +33,15 @@ I currently work as a Research Fellow in NUS. For my full (and timely) publicati
 用户也可以编辑这个区域。
 </textarea>
 
+<div style="height: 100px; overflow-y: scroll; border: 1px solid #ccc; padding: 10px;">
+这里是你的长文本内容...
+可以有多行文字，当内容超出设定的高度时，就会出现滚动条。
+这里是你的长文本内容...
+可以有多行文字，当内容超出设定的高度时，就会出现滚动条。
+这里是你的长文本内容...
+可以有多行文字，当内容超出设定的高度时，就会出现滚动条。
+</div>
+
 # 🔥 News
 <span class='anchor' id='-news'></span>
 - *2025.04*:&nbsp;🎉🎉Two papers are accepted by IJCAI 2025, Congrats to [Jingying](https://scholar.google.com.hk/citations?user=44HREuQAAAAJ) and Jiangfeng.
