@@ -28,19 +28,7 @@ I currently work as a Research Fellow in NUS. For my full (and timely) publicati
 <!-- https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fzhuyf8899%2Fzhuyf8899.github.io%40google-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations -->
 <!-- https://cdn.jsdelivr.net/gh/zhuyf8899/zhuyf8899.github.io@google-scholar-stats/gs_data_shieldsio.json -->
 
-<textarea rows="5" style="width: 100%;">
-这里是预填充的文本内容...
-用户也可以编辑这个区域。
-</textarea>
 
-<div style="height: 100px; overflow-y: scroll; border: 1px solid #ccc; padding: 10px;">
-这里是你的长文本内容...
-可以有多行文字，当内容超出设定的高度时，就会出现滚动条。
-这里是你的长文本内容...
-可以有多行文字，当内容超出设定的高度时，就会出现滚动条。
-这里是你的长文本内容...
-可以有多行文字，当内容超出设定的高度时，就会出现滚动条。
-</div>
 
 # 🔥 News
 <span class='anchor' id='-news'></span>
@@ -51,6 +39,19 @@ I currently work as a Research Fellow in NUS. For my full (and timely) publicati
 - *2024.11*:&nbsp;🥳🥳Our survey paper on Multimodel Healthcare is accepted by Information Fusion (2023 IF 14.7).
 - *2024.11*:&nbsp;🚀🚀CFPs: Our Special Issue of [GenAI for Information Fusion](https://www-sciencedirect-com.libproxy1.nus.edu.sg/special-issue/316104/genai-for-information-fusion) in Information Fusion (2023 IF 14.7).
 - *2024.02*:&nbsp;🚀🚀CFPs: Our Special Issue of [Multimodal Representation and Reasoning for Social Computing](https://www.ieeesmc.org/wp-content/uploads/2024/02/Multimodal-Representation-and-Reasoning-for-Social-Computing-CFP.pdf) in IEEE TCSS (2023 IF 4.5).
+
+
+<div style="height: 200px; overflow-y: scroll; border: 1px solid #ccc; padding: 10px;">
+<span class='anchor' id='-news'></span>
+- *2025.04*:&nbsp;🎉🎉Two papers are accepted by IJCAI 2025, Congrats to [Jingying](https://scholar.google.com.hk/citations?user=44HREuQAAAAJ) and Jiangfeng.
+- *2025.04*:&nbsp;🎉🎉Two papers are accepted by SIGIR 2025, Congrats to Yaxian and Tianzhe.
+- *2025.04*:&nbsp;🥳🥳Our study of diffusion-based difference-aware medical VQA is accepted by IEEE TIP.
+- *2025.01*:&nbsp;🥳🥳Our logical reasoning evaluation study of LLMs is accepted by IEEE TKDE.
+- *2024.11*:&nbsp;🥳🥳Our survey paper on Multimodel Healthcare is accepted by Information Fusion (2023 IF 14.7).
+- *2024.11*:&nbsp;🚀🚀CFPs: Our Special Issue of [GenAI for Information Fusion](https://www-sciencedirect-com.libproxy1.nus.edu.sg/special-issue/316104/genai-for-information-fusion) in Information Fusion (2023 IF 14.7).
+- *2024.02*:&nbsp;🚀🚀CFPs: Our Special Issue of [Multimodal Representation and Reasoning for Social Computing](https://www.ieeesmc.org/wp-content/uploads/2024/02/Multimodal-Representation-and-Reasoning-for-Social-Computing-CFP.pdf) in IEEE TCSS (2023 IF 4.5).
+</div>
+
 
 
 
