@@ -42,6 +42,7 @@ I currently work as a Research Fellow in NUS. For my full (and timely) publicati
 
 
 <div style="height: 200px; overflow-y: auto; border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; background-color: #f6f8fa; line-height: 1.5;">
+<pre>
 # 🔥 News
 <span class='anchor' id='-news'></span>
 - *2025.04*:&nbsp;🎉🎉Two papers are accepted by IJCAI 2025, Congrats to [Jingying](https://scholar.google.com.hk/citations?user=44HREuQAAAAJ) and Jiangfeng.
@@ -51,6 +52,7 @@ I currently work as a Research Fellow in NUS. For my full (and timely) publicati
 - *2024.11*:&nbsp;🥳🥳Our survey paper on Multimodel Healthcare is accepted by Information Fusion (2023 IF 14.7).
 - *2024.11*:&nbsp;🚀🚀CFPs: Our Special Issue of [GenAI for Information Fusion](https://www-sciencedirect-com.libproxy1.nus.edu.sg/special-issue/316104/genai-for-information-fusion) in Information Fusion (2023 IF 14.7).
 - *2024.02*:&nbsp;🚀🚀CFPs: Our Special Issue of [Multimodal Representation and Reasoning for Social Computing](https://www.ieeesmc.org/wp-content/uploads/2024/02/Multimodal-Representation-and-Reasoning-for-Social-Computing-CFP.pdf) in IEEE TCSS (2023 IF 4.5).
+</pre>
 </div>
 
 
