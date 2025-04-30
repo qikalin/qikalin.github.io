@@ -28,6 +28,11 @@ I currently work as a Research Fellow in NUS. For my full (and timely) publicati
 <!-- https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fzhuyf8899%2Fzhuyf8899.github.io%40google-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations -->
 <!-- https://cdn.jsdelivr.net/gh/zhuyf8899/zhuyf8899.github.io@google-scholar-stats/gs_data_shieldsio.json -->
 
+<textarea rows="5" style="width: 100%;">
+这里是预填充的文本内容...
+用户也可以编辑这个区域。
+</textarea>
+
 # 🔥 News
 <span class='anchor' id='-news'></span>
 - *2025.04*:&nbsp;🎉🎉Two papers are accepted by IJCAI 2025, Congrats to [Jingying](https://scholar.google.com.hk/citations?user=44HREuQAAAAJ) and Jiangfeng.
