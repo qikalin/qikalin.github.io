@@ -46,6 +46,7 @@ I currently work as a Research Fellow in NUS. For my full (and timely) publicati
 <h1>🔥 News</h1>
 <span class='anchor' id='-news'></span>
 <ul>
+<li><em>2025.05</em>:&nbsp;🥳🥳Our study of agentic knowledge base question answering is accepted by ICML 2025, Congrats to <a href="https://lhrlab.github.io/">Haoran</a>.</li>
 <li><em>2025.04</em>:&nbsp;🎉🎉Two papers are accepted by IJCAI 2025, Congrats to <a href="https://scholar.google.com.hk/citations?user=44HREuQAAAAJ">Jingying</a> and Jiangfeng.</li>
 <li><em>2025.04</em>:&nbsp;🎉🎉Two papers are accepted by SIGIR 2025, Congrats to Yaxian and Tianzhe.</li>
 <li><em>2025.04</em>:&nbsp;🥳🥳Our study of diffusion-based difference-aware medical VQA is accepted by IEEE TIP.</li>
@@ -71,7 +72,6 @@ I currently work as a Research Fellow in NUS. For my full (and timely) publicati
 - Fangzhi Xu, Hang Yan, Chang Ma, Haiteng Zhao, Jun Liu✉, ***Qika Lin***✉, Zhiyong Wu✉, ***ϕ -Decoding: Adaptive Foresight Sampling for Balanced Inference-Time Exploration and Exploitation***. [[Paper]](https://arxiv.org/pdf/2503.13288) [[BibTeX]]()
 - Jian Zhang, Bifan Wei, Shihao Qi, Haiping Zhu, Jun Liu, ***Qika Lin***✉, ***GKG-LLM: A Unified Framework for Generalized Knowledge Graph
 Construction***. [[Paper]](https://arxiv.org/pdf/2503.11227) [[BibTeX]]()
-- Haoran Luo, Haihong E, Yikai Guo, ***Qika Lin***, Xiaobao Wu, Xinyu Mu, Wenhao Liu, Meina Song, Yifan Zhu, Luu Anh Tuan, ***KBQA-o1: Agentic Knowledge Base Question Answering with Monte Carlo Tree Search***. [[Paper]](https://arxiv.org/pdf/2501.18922) [[BibTeX]]()
 - ***Qika Lin***, Zhen Peng, Kaize Shi, Kai He, Yiming Xu, Erik Cambria, Mengling Feng, ***A Survey of Quantized Graph Representation Learning: Connecting
 Graph Structures with Large Language Models***. [[Paper]](https://arxiv.org/pdf/2502.00681) [[BibTeX]]()
 - ***Qika Lin***, Tianzhe Zhao, Kai He, Zhen Peng, Fangzhi Xu, Ling Huang, Jingying Ma, Mengling Feng, ***Self-supervised Quantized Representation for Seamlessly Integrating
@@ -82,6 +82,7 @@ Knowledge Graphs with Large Language Models***. [[Paper]](https://arxiv.org/pdf/
 
 
 ## 2025
+- ``ICML 2025`` ***KBQA-o1: Agentic Knowledge Base Question Answering with Monte Carlo Tree Search***. <span style="color:red">[CCF-A]</span><br>Haoran Luo, Haihong E, Yikai Guo, ***Qika Lin***, Xiaobao Wu, Xinyu Mu, Wenhao Liu, Meina Song, Yifan Zhu, Luu Anh Tuan.  [[Paper]](https://arxiv.org/pdf/2501.18922) [[BibTeX]]()
 - ``IJCAI 2025`` ***Towards Recognizing Spatial-temporal Collaboration of EEG Phase Brain Networks for Emotion Understanding***. <span style="color:red">[CCF-A]</span><br>Jiangfeng Sun, Kaiwen Xue, ***Qika Lin***, Yufei Qiao, Yifan Zhu, Zhonghong Ou, Meina Song. [[Paper]]() [[BibTeX]]()
 - ``IJCAI 2025`` ***STUSleepNet: A SpatialTemporal Coupling Prominence Network for MultiChannel Sleep Staging***. <span style="color:red">[CCF-A]</span><br>Jingying Ma, ***Qika Lin***✉, Ziyu Jia✉, Mengling Feng. [[Paper]](https://arxiv.org/pdf/2408.11884) [[BibTeX]](https://dblp.org/rec/journals/corr/abs-2408-11884.html?view=bibtex)
 - ``IEEE TAC`` ***Exploring Cognitive and Aesthetic Causality for Multimodal Aspect-Based Sentiment Analysis***. <span style="color:red">[CCF-B]</span><br>Luwei Xiao, Rui Mao, Shuai Zhao, ***Qika Lin***, Yanhao Jia, Liang He, Erik Cambria. [[Paper]]() [[BibTeX]]()
