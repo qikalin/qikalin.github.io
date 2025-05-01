@@ -32,6 +32,7 @@ I currently work as a Research Fellow in NUS. For my full (and timely) publicati
 
 # 🔥 News
 <span class='anchor' id='-news'></span>
+- *2025.05*:&nbsp;🥳🥳Our study of agentic knowledge base question answering is accepted by ICML 2025, Congrats to <a href="https://lhrlab.github.io/">Haoran.
 - *2025.04*:&nbsp;🎉🎉Two papers are accepted by IJCAI 2025, Congrats to [Jingying](https://scholar.google.com.hk/citations?user=44HREuQAAAAJ) and Jiangfeng.
 - *2025.04*:&nbsp;🎉🎉Two papers are accepted by SIGIR 2025, Congrats to Yaxian and Tianzhe.
 - *2025.04*:&nbsp;🥳🥳Our study of diffusion-based difference-aware medical VQA is accepted by IEEE TIP.
