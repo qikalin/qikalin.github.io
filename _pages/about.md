@@ -179,6 +179,7 @@ Knowledge Graphs with Large Language Models***. [[Paper]](https://arxiv.org/pdf/
 
 ## Conference Service
 - ***Area Chair***: IJCNN'25.
+- ***Workshop Organizer*** of the [7th International Workshop on Artificial Intelligence for Precision Medicine (AI4PM 2025)](https://biod.whu.edu.cn/bibm2025/Workshops.htm) in BIBM (CCF-B), 2025.
 - ***Publicity Chair*** of the [International Conference on Artificial Intelligence, Big Data and Algorithms (CAIBDA)](https://www.caibda.org/committee), 2025.
 - ***Special Session Chair*** of [Knowledge + Data Driven AI model for Understanding Social Behavioral-Based Data](https://besc-conf.org/2025/special-session-1), the International
 Conference on Behavioural and Social Computing (BESC), 2025.
