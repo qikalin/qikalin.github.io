@@ -47,6 +47,7 @@ I currently work as a Research Fellow in NUS. For my full (and timely) publicati
 <h1>🔥 News</h1>
 <span class='anchor' id='-news'></span>
 <ul>
+<li><em>2025.05</em>:&nbsp;🎉🎉Three papers are accepted by ACL 2025 and one paper is accepted by KDD 2025, Congrats to <a href="https://xufangzhi.github.io/">Fangzhi</a>, <a href="https://scholar.google.com.hk/citations?user=4nWk-HYAAAAJ">Dr. Kai</a> and <a href="https://scholar.google.com.hk/citations?user=MeiczY4AAAAJ">Dr. Zhen</a>.</li>
 <li><em>2025.05</em>:&nbsp;🥳🥳Our study of agentic knowledge base question answering is accepted by ICML 2025, Congrats to <a href="https://lhrlab.github.io/">Haoran</a>.</li>
 <li><em>2025.04</em>:&nbsp;🎉🎉Two papers are accepted by IJCAI 2025, Congrats to <a href="https://scholar.google.com.hk/citations?user=44HREuQAAAAJ">Jingying</a> and Jiangfeng.</li>
 <li><em>2025.04</em>:&nbsp;🎉🎉Two papers are accepted by SIGIR 2025, Congrats to Yaxian and Tianzhe.</li>
@@ -70,19 +71,19 @@ I currently work as a Research Fellow in NUS. For my full (and timely) publicati
 - Haoran Luo, Haihong E, Guanting Chen, Yandan Zheng, Xiaobao Wu, Yikai Guo, ***Qika Lin***, Yu Feng, Zemin Kuang, Meina Song, Yifan Zhu, Luu Anh Tuan, ***HyperGraphRAG: Retrieval-Augmented Generation with Hypergraph-Structured Knowledge Representation***. [[Paper]](https://arxiv.org/pdf/2503.21322) [[BibTeX]]()
 - Jian Zhang, Zhiyuan Wang, Zhangqi Wang, Xinyu Zhang, Fangzhi Xu, ***Qika Lin***✉, Rui Mao, Erik Cambria, Jun Liu✉, ***MAPS: A Multi-Agent Framework Based on Big Seven Personality and Socratic Guidance for Multimodal Scientific Problem Solving***. [[Paper]](https://arxiv.org/pdf/2503.16905) [[BibTeX]]()
 - Jian Zhang, Zhangqi Wang, Haiping Zhu, Jun Liu, ***Qika Lin***✉, Erik Cambria✉, ***MARS: A Multi-Agent Framework Incorporating Socratic Guidance for Automated Prompt Optimization***. [[Paper]](https://arxiv.org/pdf/2503.16874) [[BibTeX]]()
-- Fangzhi Xu, Hang Yan, Chang Ma, Haiteng Zhao, Jun Liu✉, ***Qika Lin***✉, Zhiyong Wu✉, ***ϕ -Decoding: Adaptive Foresight Sampling for Balanced Inference-Time Exploration and Exploitation***. [[Paper]](https://arxiv.org/pdf/2503.13288) [[BibTeX]]()
 - Jian Zhang, Bifan Wei, Shihao Qi, Haiping Zhu, Jun Liu, ***Qika Lin***✉, ***GKG-LLM: A Unified Framework for Generalized Knowledge Graph
 Construction***. [[Paper]](https://arxiv.org/pdf/2503.11227) [[BibTeX]]()
 - ***Qika Lin***, Zhen Peng, Kaize Shi, Kai He, Yiming Xu, Erik Cambria, Mengling Feng, ***A Survey of Quantized Graph Representation Learning: Connecting
 Graph Structures with Large Language Models***. [[Paper]](https://arxiv.org/pdf/2502.00681) [[BibTeX]]()
-- ***Qika Lin***, Tianzhe Zhao, Kai He, Zhen Peng, Fangzhi Xu, Ling Huang, Jingying Ma, Mengling Feng, ***Self-supervised Quantized Representation for Seamlessly Integrating
-Knowledge Graphs with Large Language Models***. [[Paper]](https://arxiv.org/pdf/2501.18119) [[BibTeX]]()
 - Ling Huang, Yucheng Xing, ***Qika Lin***, Su Ruan, Mengling Feng, ***EsurvFusion: An evidential multimodal survival fusion model based on Gaussian random fuzzy numbers***. [[Paper]](https://arxiv.org/pdf/2412.01215) [[BibTeX]]()
 
 
 
 
 ## 2025
+- ``ACL 2025`` ***Crab: A Novel Configurable Role-Playing LLM with Assessing Benchmark***. <span style="color:red">[CCF-A]</span><br>Kai He, Yucheng Huang, Wenqing Wang, Delong Ran, Dongming Sheng, Junxuan Huang, ***Qika Lin***, Jiaxing Xu, Wenqiang Liu, Mengling Feng.  [[Paper]]() [[BibTeX]]()
+- ``ACL 2025`` ***ϕ -Decoding: Adaptive Foresight Sampling for Balanced Inference-Time Exploration and Exploitation***. <span style="color:red">[CCF-A]</span><br>Fangzhi Xu, Hang Yan, Chang Ma, Haiteng Zhao, Jun Liu✉, ***Qika Lin***✉, Zhiyong Wu✉.  [[Paper]](https://arxiv.org/pdf/2503.13288) [[BibTeX]]()
+- ``ACL 2025`` ***Self-supervised Quantized Representation for Seamlessly Integrating Knowledge Graphs with Large Language Models***. <span style="color:red">[CCF-A]</span><br>***Qika Lin***, Tianzhe Zhao, Kai He, Zhen Peng, Fangzhi Xu, Ling Huang, Jingying Ma, Mengling Feng.  [[Paper]](https://arxiv.org/pdf/2501.18119) [[BibTeX]]()
 - ``KDD 2025`` ***Self-Supervised Continual Graph Learning via Adaptive Spaced Replay on Node Proxies***. <span style="color:red">[CCF-A]</span><br>Zhen Peng, Xu Hua, Jingchen Hao, ***Qika Lin***, Bo Dong, Chao Shen.  [[Paper]]() [[BibTeX]]()
 - ``ICML 2025`` ***KBQA-o1: Agentic Knowledge Base Question Answering with Monte Carlo Tree Search***. <span style="color:red">[CCF-A]</span><br>Haoran Luo, Haihong E, Yikai Guo, ***Qika Lin***, Xiaobao Wu, Xinyu Mu, Wenhao Liu, Meina Song, Yifan Zhu, Luu Anh Tuan.  [[Paper]](https://arxiv.org/pdf/2501.18922) [[BibTeX]]()
 - ``IJCAI 2025`` ***Towards Recognizing Spatial-temporal Collaboration of EEG Phase Brain Networks for Emotion Understanding***. <span style="color:red">[CCF-A]</span><br>Jiangfeng Sun, Kaiwen Xue, ***Qika Lin***, Yufei Qiao, Yifan Zhu, Zhonghong Ou, Meina Song. [[Paper]]() [[BibTeX]]()
