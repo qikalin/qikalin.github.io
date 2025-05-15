@@ -83,6 +83,7 @@ Knowledge Graphs with Large Language Models***. [[Paper]](https://arxiv.org/pdf/
 
 
 ## 2025
+- ``KDD 2025`` ***Self-Supervised Continual Graph Learning via Adaptive Spaced Replay on Node Proxies***. <span style="color:red">[CCF-A]</span><br>Zhen Peng, Xu Hua, Jingchen Hao, ***Qika Lin***, Bo Dong, Chao Shen.  [[Paper]]() [[BibTeX]]()
 - ``ICML 2025`` ***KBQA-o1: Agentic Knowledge Base Question Answering with Monte Carlo Tree Search***. <span style="color:red">[CCF-A]</span><br>Haoran Luo, Haihong E, Yikai Guo, ***Qika Lin***, Xiaobao Wu, Xinyu Mu, Wenhao Liu, Meina Song, Yifan Zhu, Luu Anh Tuan.  [[Paper]](https://arxiv.org/pdf/2501.18922) [[BibTeX]]()
 - ``IJCAI 2025`` ***Towards Recognizing Spatial-temporal Collaboration of EEG Phase Brain Networks for Emotion Understanding***. <span style="color:red">[CCF-A]</span><br>Jiangfeng Sun, Kaiwen Xue, ***Qika Lin***, Yufei Qiao, Yifan Zhu, Zhonghong Ou, Meina Song. [[Paper]]() [[BibTeX]]()
 - ``IJCAI 2025`` ***STUSleepNet: A SpatialTemporal Coupling Prominence Network for MultiChannel Sleep Staging***. <span style="color:red">[CCF-A]</span><br>Jingying Ma, ***Qika Lin***✉, Ziyu Jia✉, Mengling Feng. [[Paper]](https://arxiv.org/pdf/2408.11884) [[BibTeX]](https://dblp.org/rec/journals/corr/abs-2408-11884.html?view=bibtex)
