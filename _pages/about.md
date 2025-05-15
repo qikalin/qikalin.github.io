@@ -64,7 +64,7 @@ Graph Structures with Large Language Models***. [[Paper]](https://arxiv.org/pdf/
 
 
 ## 2025
-- ``ACL 2025`` ***Crab: A Novel Configurable Role-Playing LLM with Assessing Benchmark***. <span style="color:red">[CCF-A]</span><br>Kai He, Yucheng Huang, Wenqing Wang, Delong Ran, Dongming Sheng, Junxuan Huang, ***Qika Lin***, Jiaxing Xu, Wenqiang Liu, Mengling Feng.  [[Paper]]() [[BibTeX]]()
+- ``ACL 2025`` ***Crab: A Novel Configurable Role-Playing LLM with Assessing Benchmark***. <span style="color:red">[CCF-A]</span><br>Kai He, Yucheng Huang, Wenqing Wang, Delong Ran, Dongming Sheng, Junxuan Huang, ***Qika Lin***, Jiaxing Xu, et al.  [[Paper]]() [[BibTeX]]()
 - ``ACL 2025`` ***ϕ -Decoding: Adaptive Foresight Sampling for Balanced Inference-Time Exploration and Exploitation***. <span style="color:red">[CCF-A]</span><br>Fangzhi Xu, Hang Yan, Chang Ma, Haiteng Zhao, Jun Liu✉, ***Qika Lin***✉, Zhiyong Wu✉.  [[Paper]](https://arxiv.org/pdf/2503.13288) [[BibTeX]]()
 - ``ACL 2025`` ***Self-supervised Quantized Representation for Seamlessly Integrating Knowledge Graphs with LLMs***. <span style="color:red">[CCF-A]</span><br>***Qika Lin***, Tianzhe Zhao, Kai He, Zhen Peng, Fangzhi Xu, Ling Huang, Jingying Ma, Mengling Feng.  [[Paper]](https://arxiv.org/pdf/2501.18119) [[BibTeX]]()
 - ``KDD 2025`` ***Self-Supervised Continual Graph Learning via Adaptive Spaced Replay on Node Proxies***. <span style="color:red">[CCF-A]</span><br>Zhen Peng, Xu Hua, Jingchen Hao, ***Qika Lin***, Bo Dong, Chao Shen.  [[Paper]]() [[BibTeX]]()
