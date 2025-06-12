@@ -50,6 +50,7 @@ I currently work as a Research Fellow in NUS. For my full (and timely) publicati
 ✉: corresponding author,&nbsp;&nbsp;‡: co-first author
 
 ## Preprint
+- Jingying Ma, Feng Wu, ***Qika Lin***✉, Yucheng Xing, Chenyu Liu, Ziyu Jia✉, Mengling Feng, ***CodeBrain: Bridging Decoupled Tokenizer and Multi-Scale Architecture for EEG Foundation Model***. [[Paper]](https://arxiv.org/pdf/2506.09110) [[BibTeX]]()
 - Dong Xing, Xianxun Zhu, Wei Zhou, ***Qika Lin***, Hang Yang, Yuqing Wang, ***Segment Any RGB-Thermal Model with Language-aided Distillation***. [[Paper]](https://arxiv.org/pdf/2505.01950) [[BibTeX]]()
 - Haoran Luo, Haihong E, Guanting Chen, Yandan Zheng, Xiaobao Wu, Yikai Guo, ***Qika Lin***, Yu Feng, Zemin Kuang, Meina Song, Yifan Zhu, Luu Anh Tuan, ***HyperGraphRAG: Retrieval-Augmented Generation with Hypergraph-Structured Knowledge Representation***. [[Paper]](https://arxiv.org/pdf/2503.21322) [[BibTeX]]()
 - Jian Zhang, Zhiyuan Wang, Zhangqi Wang, Xinyu Zhang, Fangzhi Xu, ***Qika Lin***✉, Rui Mao, Erik Cambria, Jun Liu✉, ***MAPS: A Multi-Agent Framework Based on Big Seven Personality and Socratic Guidance for Multimodal Scientific Problem Solving***. [[Paper]](https://arxiv.org/pdf/2503.16905) [[BibTeX]]()
