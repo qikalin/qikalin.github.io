@@ -65,6 +65,7 @@ Graph Structures with Large Language Models***. [[Paper]](https://arxiv.org/pdf/
 
 
 ## 2025
+- ``ICCV 2025`` ***Synergistic Prompting for Robust Visual Recognition with Missing Modalities***. <span style="color:red">[CCF-A]</span><br>Zhihui Zhang, Luanyuan Dai, ***Qika Lin***, Yunfeng Diao, Guangyin Jin, Yufei Guo, Jing Zhang, Xiaoshuai Hao.  [[Paper]]() [[BibTeX]]()
 - ``IEEE TFS`` ***External Retrievals or Internal Priors? From RAG to Epitome-Augmented Generation By Fuzzy Selection***. <span style="color:red">[CCF-B]</span><br>Kai He, Jiaxing Xu, ***Qika Lin***, Wenqing Wang, Zeyu Gao, Jialun Wu, Yucheng Huang, Mengling Feng.  [[Paper]](https://ieeexplore.ieee.org/document/11045199) [[BibTeX]]()
 - ``IEEE TNNLS`` ***End-to-End Abnormal Subgraph Detection via Subgraph-Level Contrastive Learning***. <span style="color:red">[CCF-B]</span><br>Zhen Peng, Yunfan Wang, ***Qika Lin***, Bin Shi, Chen Chen, Bo Dong, Chao Shen.  [[Paper]](https://ieeexplore.ieee.org/document/11025822) [[BibTeX]]()
 - ``ACL 2025`` ***Crab: A Novel Configurable Role-Playing LLM with Assessing Benchmark***. <span style="color:red">[CCF-A]</span><br>Kai He, Yucheng Huang, Wenqing Wang, Delong Ran, Dongming Sheng, Junxuan Huang, ***Qika Lin***, Jiaxing Xu, et al.  [[Paper]]() [[BibTeX]]()
