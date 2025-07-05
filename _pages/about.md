@@ -32,8 +32,9 @@ I currently work as a Research Fellow in NUS. For my full (and timely) publicati
 
 # 🔥 News
 <span class='anchor' id='-news'></span>
+- *2025.07*:&nbsp;🥳🥳Our study of multi-LLM based graph anomaly detection is accepted by ACM MM 2025, Congrats to <a href="https://scholar.google.com.hk/citations?user=Xuyz-P0AAAAJ&hl=zh-CN&oi=ao">Dr. Yiming</a>.
 - *2025.05*:&nbsp;🎉🎉Three papers are accepted by ACL 2025 and one paper is accepted by KDD 2025, Congrats to <a href="https://xufangzhi.github.io/">Fangzhi</a>, <a href="https://scholar.google.com.hk/citations?user=4nWk-HYAAAAJ">Dr. Kai</a> and <a href="https://scholar.google.com.hk/citations?user=MeiczY4AAAAJ">Dr. Zhen</a>.
-- *2025.05*:&nbsp;🥳🥳Our study of agentic knowledge base question answering is accepted by ICML 2025, Congrats to <a href="https://lhrlab.github.io/">Haoran.
+- *2025.05*:&nbsp;🥳🥳Our study of agentic knowledge base question answering is accepted by ICML 2025, Congrats to <a href="https://lhrlab.github.io/">Haoran</a>.
 - *2025.04*:&nbsp;🎉🎉Two papers are accepted by IJCAI 2025, Congrats to [Jingying](https://scholar.google.com.hk/citations?user=44HREuQAAAAJ) and Jiangfeng.
 - *2025.04*:&nbsp;🎉🎉Two papers are accepted by SIGIR 2025, Congrats to Yaxian and Tianzhe.
 - *2025.04*:&nbsp;🥳🥳Our study of diffusion-based difference-aware medical VQA is accepted by IEEE TIP.
