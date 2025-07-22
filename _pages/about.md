@@ -51,6 +51,7 @@ I currently work as a Research Fellow in NUS. For my full (and timely) publicati
 ✉: corresponding author,&nbsp;&nbsp;‡: co-first author
 
 ## Preprint
+- Hang Yan, Fangzhi Xu, Rongman Xu, Yifei Li, Jian Zhang, Haoran Luo, Xiaobao Wu, Luu Anh Tuan, Haiteng Zhao, ***Qika Lin***, Jun Liu, ***MUR: Momentum Uncertainty guided Reasoning for Large Language Models***. [[Paper]](https://arxiv.org/pdf/2507.14958) [[BibTeX]]()
 - Tianzhe Zhao✉, Jiaoyan Chen, Yanchi Ru, Haiping Zhu,, Nan Hu, Jun Liu, ***Qika Lin***✉, ***RAG Safety: Exploring Knowledge Poisoning Attacks to Retrieval-Augmented Generation***. [[Paper]](https://arxiv.org/pdf/2507.08862) [[BibTeX]]()
 - ***Qika Lin***, Fangzhi Xu, Hao Lu, Kai He, Rui Mao, Jun Liu, Erik Cambria, Mengling Feng, ***Towards Unified Neurosymbolic Reasoning on Knowledge Graphs***. [[Paper]](https://arxiv.org/abs/2507.03697) [[BibTeX]]()
 - Jingying Ma, Feng Wu, ***Qika Lin***✉, Yucheng Xing, Chenyu Liu, Ziyu Jia✉, Mengling Feng, ***CodeBrain: Bridging Decoupled Tokenizer and Multi-Scale Architecture for EEG Foundation Model***. [[Paper]](https://arxiv.org/pdf/2506.09110) [[BibTeX]]()
