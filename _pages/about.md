@@ -70,6 +70,7 @@ Graph Structures with Large Language Models***. [[Paper]](https://arxiv.org/pdf/
 
 
 ## 2025
+- ``IEEE JBHI`` ***Improving Clinical Foundation Models with Multi-modal Learning and Domain Adaptation for Chronic Disease Prediction***.<br>Wenhui Hou, Jianqiang Wang, ***Qika Lin***, Xiaokang Wang, Ling Huang.  [[Paper]]() [[BibTeX]]()
 - ``IEEE TNSE`` ***Estimating Node Abnormalities from Imprecise Subgraph-Level Supervision***.<br>Zhen Peng, Yunqi Xue, Yunfan Wang, ***Qika Lin***, Chao Shen.  [[Paper]]() [[BibTeX]]()
 - ``ACM MM 2025`` ***Court of LLMs: Evidence-Augmented Generation via Multi-LLM Collaboration for Text-Attributed Graph Anomaly Detection***. <span style="color:red">[CCF-A]</span><br>Yiming Xu, Jiarun Chen, Zhen Peng, Zihan Chen, ***Qika Lin***, Lan Ma, Bin Shi, Bo Dong.  [[Paper]]() [[BibTeX]]()
 - ``IEEE Intelligent Systems`` ***Finetuning Large Language Models with Behavioral Alignment for Depression Detection***. <span style="color:red"></span><br>Xifeng Ning, Hailu Sun, Dejun Yu, Chao Yang, Ruonan Fang, Lin Fan, ***Qika Lin***, Yifan Zhu.  [[Paper]]() [[BibTeX]]()
