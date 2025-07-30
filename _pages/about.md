@@ -51,6 +51,7 @@ I currently work as a Research Fellow in NUS. For my full (and timely) publicati
 ✉: corresponding author,&nbsp;&nbsp;‡: co-first author
 
 ## Preprint
+- Haoran Luo, Haihong E, Guanting Chen, ***Qika Lin***, Yikai Guo, Fangzhi Xu, Zemin Kuang, Meina Song, Xiaobao Wu, Yifan Zhu, Luu Anh Tuan, ***Graph-R1: Towards Agentic GraphRAG Framework via End-to-end Reinforcement Learning***. [[Paper]](https://arxiv.org/pdf/2507.21892) [[BibTeX]]()
 - Hang Yan, Fangzhi Xu, Rongman Xu, Yifei Li, Jian Zhang, Haoran Luo, Xiaobao Wu, Luu Anh Tuan, Haiteng Zhao, ***Qika Lin***, Jun Liu, ***MUR: Momentum Uncertainty guided Reasoning for Large Language Models***. [[Paper]](https://arxiv.org/pdf/2507.14958) [[BibTeX]]()
 - Tianzhe Zhao✉, Jiaoyan Chen, Yanchi Ru, Haiping Zhu,, Nan Hu, Jun Liu, ***Qika Lin***✉, ***RAG Safety: Exploring Knowledge Poisoning Attacks to Retrieval-Augmented Generation***. [[Paper]](https://arxiv.org/pdf/2507.08862) [[BibTeX]]()
 - ***Qika Lin***, Fangzhi Xu, Hao Lu, Kai He, Rui Mao, Jun Liu, Erik Cambria, Mengling Feng, ***Towards Unified Neurosymbolic Reasoning on Knowledge Graphs***. [[Paper]](https://arxiv.org/abs/2507.03697) [[BibTeX]]()
