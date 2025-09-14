@@ -51,6 +51,7 @@ I currently work as a Research Fellow in NUS. For my full (and timely) publicati
 ✉: corresponding author,&nbsp;&nbsp;‡: co-first author
 
 ## Preprint
+- Yanrui Du, Fenglei Fan, Sendong Zhao, Jiawei Cao, ***Qika Lin***, Kai He, Ting Liu, Bing Qin, Mengling Feng, ***Anchoring Refusal Direction: Mitigating Safety Risks in Tuning via Projection Constraint***. [[Paper]](https://arxiv.org/pdf/2509.06795) [[BibTeX]]()
 - ***Qika Lin***, Yifan Zhu, Bin Pu, Ling Huang, Haoran Luo, Jingying Ma, Zhen Peng, Tianzhe Zhao, Fangzhi Xu, Jian Zhang, Kai He, Zhonghong Ou, Swapnil Mishra, Mengling Feng, ***A Foundation Model for Chest X-ray Interpretation with Grounded Reasoning via Online Reinforcement Learning***. [[Paper]](https://arxiv.org/pdf/2509.03906) [[BibTeX]]()
 - Haoran Luo, Haihong E, Guanting Chen, ***Qika Lin***, Yikai Guo, Fangzhi Xu, Zemin Kuang, Meina Song, Xiaobao Wu, Yifan Zhu, Luu Anh Tuan, ***Graph-R1: Towards Agentic GraphRAG Framework via End-to-end Reinforcement Learning***. [[Paper]](https://arxiv.org/pdf/2507.21892) [[BibTeX]]()
 - Hang Yan, Fangzhi Xu, Rongman Xu, Yifei Li, Jian Zhang, Haoran Luo, Xiaobao Wu, Luu Anh Tuan, Haiteng Zhao, ***Qika Lin***, Jun Liu, ***MUR: Momentum Uncertainty guided Reasoning for Large Language Models***. [[Paper]](https://arxiv.org/pdf/2507.14958) [[BibTeX]]()
