@@ -31,6 +31,7 @@ I currently work as a Research Fellow in NUS. For my full (and timely) publicati
 
 
 # 🔥 News
+<style> .scrollable-area { max-height: 180px; overflow-y: auto; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1); padding: 10px; } .pdf { text-decoration: none; color: #122c8b; } .code { text-decoration: none; color: #122c8b; } .title{ color: #374798; } </style>
 <span class='anchor' id='-news'></span>
 - *2025.07*:&nbsp;🥳🥳Our study of multi-LLM based graph anomaly detection is accepted by ACM MM 2025, Congrats to <a href="https://scholar.google.com.hk/citations?user=Xuyz-P0AAAAJ&hl=zh-CN&oi=ao">Dr. Yiming</a>.
 - *2025.05*:&nbsp;🎉🎉Three papers are accepted by ACL 2025 and one paper is accepted by KDD 2025, Congrats to <a href="https://xufangzhi.github.io/">Fangzhi</a>, <a href="https://scholar.google.com.hk/citations?user=4nWk-HYAAAAJ">Dr. Kai</a> and <a href="https://scholar.google.com.hk/citations?user=MeiczY4AAAAJ">Dr. Zhen</a>.
