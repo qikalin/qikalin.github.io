@@ -77,10 +77,7 @@ I currently work as a Research Fellow in NUS. For my full (and timely) publicati
 
 ## Journal Reviewer
 - ***Flagship Journals***: Proceedings of the National Academy of Sciences of the United States of America (PNAS)
-- ***IEEE***: Proceedings of the IEEE (CCF-A), IEEE Transactions on Pattern Analysis and Machine Intelligence (CCF-A), IEEE Transactions on Knowledge and Data Engineering (CCF-A), IEEE Transactions on Image Processing (CCF-A), IEEE Transactions on Mobile Computing (CCF-A), IEEE Transactions on Dependable and Secure Computing (CCF-A), IEEE Transactions on Information Forensics and Security (CCF-A), IEEE/ACM Transactions on Networking (CCF-A), IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Fuzzy Systems, IEEE Transactions on Cybernetics, IEEE Transactions on Multimedia, IEEE Transactions on Computational Social Systems, IEEE Internet of Things Journal, IEEE Transactions on Circuits and Systems for Video Technology, IEEE Transactions on Big Data, etc.
-- ***ACM***: ACM Transactions on Information Systems (CCF-A), ACM Transactions on Software Engineering and Methodology (CCF-A), ACM Transactions on Knowledge Discovery from Data, ACM Transactions on Intelligent Systems and Technology, etc.
-- ***Springer***: International Journal of Computer Vision (CCF-A), Cognitive Computation, etc.
-- ***Elsevier***: Artificial Intelligence (CCF-A), Information Fusion, Information Processing and Management, Neural Networks, Knowledge-Based Systems, Neurocomputing, etc.
+- ***Top-tier CS Journals***: PIEEE, TPAMI, TKDE, TIP, AIJ, IJCV, TOIS, TMC, TDSC, TIFS, TNNLS, TFS, TCSVT, TKDD, etc.
 
 ## Conference Service
 - ***Area Chair***: IJCNN'25.
@@ -91,7 +88,6 @@ Conference on Behavioural and Social Computing (BESC), 2025.
 - ***Special Session Chair*** of [Knowledge-driven Graph Learning for Social Behavioral and Medical Data](https://besc-conf.org/2024/special-session-3), the International
 Conference on Behavioural and Social Computing (BESC), 2024.
 - ***Program Committee Member***: COLING'22-25, LOG'22-23, EMNLP'22-24, ACL'23-25, SIGIR'23-25, CIKM'24, NeurIPS'24-25, ICLR'25, AISTATS'25, ICML'25, KDD'25, IJCAI'25, etc.
-
 
 
 <!--
