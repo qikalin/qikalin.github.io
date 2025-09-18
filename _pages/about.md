@@ -77,7 +77,7 @@ I currently work as a Research Fellow in NUS. For my full (and timely) publicati
 
 ## Journal Reviewer
 - ***Flagship Journals***: Proceedings of the National Academy of Sciences of the United States of America (PNAS)
-- ***Top-tier CS Journals***: PIEEE, TPAMI, TKDE, TIP, AIJ, IJCV, TOIS, TMC, TDSC, TIFS, TNNLS, TFS, TCSVT, TKDD, etc.
+- ***Top-tier CS Journals***: PIEEE, TPAMI, TKDE, TIP, AIJ, IJCV, TOIS, TMC, TDSC, TIFS, TNNLS, TFS, TCSVT, TKDD, TSEM, etc.
 
 ## Conference Service
 - ***Area Chair***: IJCNN'25.
