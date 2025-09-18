@@ -58,6 +58,7 @@ I currently work as a Research Fellow in NUS. For my full (and timely) publicati
 
 
 # 🎤 Reports & Talks
+<span class='anchor' id='-report'></span>
 
 - *2025.09* Report by MIT Technology Review: [专为胸部X光图像设计：科学家研发医学基础模型，提供清晰可追溯诊断依据](https://www.mittrchina.com/news/detail/15249).
 
