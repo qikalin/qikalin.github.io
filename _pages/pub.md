@@ -25,7 +25,12 @@ Graph Structures with Large Language Models***. [[Paper]](https://arxiv.org/pdf/
 
 
 ## 2025
-- <span style="background-color: #007bff; color: white; padding: 4px 8px; border-radius: 4px; font-weight: bold;">EMNLP Demo 2025</span> [InTriage: Intelligent Telephone Triage in Pre-Hospital Emergency Care](https://arxiv.org/abs/2508.20096)***InTriage: Intelligent Telephone Triage in Pre-Hospital Emergency Care***. <br>Kai He, ***Qika Lin***, Hao Fei, Eng Siong Chng, Dehan Hong, Marcus Eng Hock Ong, Mengling Feng. [[Paper]]() [[BibTeX]]()
+- <span style="background-color: #007bff; color: white; padding: 4px 8px; border-radius: 4px; font-weight: bold;">EMNLP Demo 2025</span> ```blue-box
+EMNLP Demo 2025
+```
+::: blue
+EMNLP Demo 2025
+::: [InTriage: Intelligent Telephone Triage in Pre-Hospital Emergency Care](https://arxiv.org/abs/2508.20096)***InTriage: Intelligent Telephone Triage in Pre-Hospital Emergency Care***. <br>Kai He, ***Qika Lin***, Hao Fei, Eng Siong Chng, Dehan Hong, Marcus Eng Hock Ong, Mengling Feng. [[Paper]]() [[BibTeX]]()
 - ``Information Fusion`` ***Domain-continual learning for multi-center anatomical detection via prompt-enhanced and densely-fused MedSAM***. <span style="color:red">[CAAI-A]</span><br>Zhan Gao, Ling Huang, ***Qika Lin***, Bin Pu, Kai He, Mengling Feng, Kenli Li. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S1566253525006864) [[BibTeX]]()
 - ``IEEE JBHI`` ***Improving Clinical Foundation Models with Multi-modal Learning and Domain Adaptation for Chronic Disease Prediction***.<br>Wenhui Hou, Jianqiang Wang, ***Qika Lin***, Xiaokang Wang, Ling Huang.  [[Paper]]() [[BibTeX]]()
 - ``IEEE TNSE`` ***Estimating Node Abnormalities from Imprecise Subgraph-Level Supervision***.<br>Zhen Peng, Yunqi Xue, Yunfan Wang, ***Qika Lin***, Chao Shen.  [[Paper]]() [[BibTeX]]()
