@@ -56,7 +56,12 @@ I currently work as a Research Fellow in NUS. For my full (and timely) publicati
 - *2016.09 - 2019.06*, M.E. at School of Computer Science and Technology, Beijing Institute of Technology, Beijing, China. (Supervisor: [Prof. Zhendong Niu](https://cs.bit.edu.cn/szdw/jsml/js/nzd/index.htm))
 - *2012.09 - 2016.06*, B.E. at School of Chemical Engineering and Environment, Beijing Institute of Technology, Beijing, China. 
 
-# 🎤 Academic Projects & Services
+
+# 🎤 Reports & Talks
+
+- *2025.09* Report by MIT Technology Review: [专为胸部X光图像设计：科学家研发医学基础模型，提供清晰可追溯诊断依据](https://www.mittrchina.com/news/detail/15249).
+
+# 🚨 Academic Projects & Services
 <span class='anchor' id='-social'></span>
 
 ## Academic Projects
@@ -70,7 +75,7 @@ I currently work as a Research Fellow in NUS. For my full (and timely) publicati
 - *2023.10 - 2024.06*, ***Guest Editor*** of [Applied Artificial Intelligence Approach: Intelligent Data Processing and Mining with Online Behaviors](https://www.mdpi.com/journal/electronics/special_issues/D3L8Y3L5S7) in Electronics.
 
 ## Journal Reviewer
-
+- ***Flagship Journals***: Proceedings of the National Academy of Sciences of the United States of America (PNAS)
 - ***IEEE***: Proceedings of the IEEE (CCF-A), IEEE Transactions on Pattern Analysis and Machine Intelligence (CCF-A), IEEE Transactions on Knowledge and Data Engineering (CCF-A), IEEE Transactions on Image Processing (CCF-A), IEEE Transactions on Mobile Computing (CCF-A), IEEE Transactions on Dependable and Secure Computing (CCF-A), IEEE Transactions on Information Forensics and Security (CCF-A), IEEE/ACM Transactions on Networking (CCF-A), IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Fuzzy Systems, IEEE Transactions on Cybernetics, IEEE Transactions on Multimedia, IEEE Transactions on Computational Social Systems, IEEE Internet of Things Journal, IEEE Transactions on Circuits and Systems for Video Technology, IEEE Transactions on Big Data, etc.
 - ***ACM***: ACM Transactions on Information Systems (CCF-A), ACM Transactions on Software Engineering and Methodology (CCF-A), ACM Transactions on Knowledge Discovery from Data, ACM Transactions on Intelligent Systems and Technology, etc.
 - ***Springer***: International Journal of Computer Vision (CCF-A), Cognitive Computation, etc.
