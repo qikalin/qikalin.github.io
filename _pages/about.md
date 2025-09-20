@@ -72,8 +72,8 @@ I currently work as a Research Fellow in NUS. For my full (and timely) publicati
 - *2023.10 - 2024.06*, ***Guest Editor*** of [Applied Artificial Intelligence Approach: Intelligent Data Processing and Mining with Online Behaviors](https://www.mdpi.com/journal/electronics/special_issues/D3L8Y3L5S7) in Electronics.
 
 ## Journal Reviewer
-- ***Flagship Journals***: PNAS
-- ***Top-tier CS Journals***: PIEEE, TPAMI, TKDE, TIP, AIJ, IJCV, TOIS, TMC, TDSC, TIFS, TNNLS, TFS, TCSVT, TKDD, TSEM, etc.
+- ***Flagship Journals***: [PNAS](https://www.pnas.org/), [PIEEE](https://proceedingsoftheieee.ieee.org/).
+- ***Top-tier CS Journals***: TPAMI, TKDE, TIP, AIJ, IJCV, TOIS, TMC, TDSC, TIFS, TNNLS, TFS, TCSVT, TKDD, TOSEM, TMM, IoT, etc.
 
 ## Conference Service
 - ***Area Chair***: IJCNN'25.
