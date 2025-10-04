@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I currently work as a Research Fellow in NUS. My research fields involve: ***Large Language Model (LLM)***, ***Vision Language Model (VLM)***, ***Knowledge reasoning***, and ***Robustness & Security***. Moving forward, my focus will be on exploring the potential of AI in multimodal ***healthcare*** applications.
+I currently work as a Research Fellow in NUS. My research fields involve: ***Large Language Model***, ***Vision Language Model***, ***Knowledge Reasoning***, and ***Robustness & Security***. Moving forward, my focus will be on exploring the potential of AI in multimodal ***healthcare*** applications.
 
 For my full (and timely) publication list, please refer to my Google scholar <a href='https://scholar.google.com/citations?user=k8BKz0MAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
