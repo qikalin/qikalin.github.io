@@ -76,7 +76,7 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 - ***Top-tier CS Journals***: TPAMI, TKDE, TIP, AIJ, IJCV, TOIS, TMC, TDSC, TIFS, TNNLS, TFS, TCSVT, TKDD, TOSEM, TMM, IoT, etc.
 
 ## Conference Service
-- ***Area Chair***: IJCNN'25.
+- ***Area Chair***: ACL ARR'25, IJCNN'25.
 - ***Workshop Organizer*** of the [7th International Workshop on Artificial Intelligence for Precision Medicine (AI4PM 2025)](https://ai-precmed.github.io/) in BIBM 2025.
 - ***Publicity Chair*** of the [International Conference on Artificial Intelligence, Big Data and Algorithms (CAIBDA)](https://www.caibda.org/committee), 2025.
 - ***Special Session Chair*** of [Knowledge + Data Driven AI model for Understanding Social Behavioral-Based Data](https://besc-conf.org/2025/special-session-1), in BESC 2025.
