@@ -17,11 +17,10 @@
 - [MARS: A Multi-Agent Framework Incorporating Socratic Guidance for Automated Prompt Optimization](https://arxiv.org/pdf/2503.16874).&nbsp;[![](https://img.shields.io/badge/MARS-blue?logo=github)](https://github.com/exoskeletonzj/MARS)<br>Jian Zhang, Zhangqi Wang, Haiping Zhu, Jun Liu, ***Qika Lin***✉, Erik Cambria✉.
 - [GKG-LLM: A Unified Framework for Generalized Knowledge Graph Construction](https://arxiv.org/pdf/2503.11227).<br>Jian Zhang, Bifan Wei, Shihao Qi, Haiping Zhu, Jun Liu, ***Qika Lin***✉.
 - [A Survey of Quantized Graph Representation Learning: Connecting Graph Structures with Large Language Models](https://arxiv.org/pdf/2502.00681).<br>***Qika Lin***, Zhen Peng, Kaize Shi, Kai He, Yiming Xu, Erik Cambria, Mengling Feng.
-- [EsurvFusion: An evidential multimodal survival fusion model based on Gaussian random fuzzy numbers](https://arxiv.org/pdf/2412.01215).<br>Ling Huang, Yucheng Xing, ***Qika Lin***, Su Ruan, Mengling Feng.
-
 
 
 ## 2025
+- <span style="background-color: darkblue; color: white; padding: 1px 4px; font-size: 85%;">IEEE TFS</span> [EsurvFusion: An evidential multimodal survival fusion model based on Gaussian random fuzzy numbers](https://arxiv.org/pdf/2412.01215).<br>Ling Huang, Yucheng Xing, ***Qika Lin***✉, Su Ruan, Mengling Feng.
 - <span style="background-color: darkblue; color: white; padding: 1px 4px; font-size: 85%;">NeurIPS</span> [HyperGraphRAG: Retrieval-Augmented Generation with Hypergraph-Structured Knowledge Representation](https://arxiv.org/pdf/2503.21322).&nbsp;[![](https://img.shields.io/github/stars/LHRLAB/HyperGraphRAG?style=social&label=Code+Stars)](https://github.com/LHRLAB/HyperGraphRAG)<br>Haoran Luo, Haihong E, Guanting Chen, Yandan Zheng, Xiaobao Wu, Yikai Guo, ***Qika Lin***, Yu Feng, ..., Yifan Zhu, Luu Anh Tuan.
 - <span style="background-color: darkblue; color: white; padding: 1px 4px; font-size: 85%;">IEEE TCSS</span> [Guest Editorial: Multimodal Representation and Reasoning for Social Computing](https://ieeexplore.ieee.org/document/11194051).<br>Mengling Feng, Erik Cambria, ***Qika Lin***✉, Kaize Shi, Weiping Li.
 - <span style="background-color: darkblue; color: white; padding: 1px 4px; font-size: 85%;">EMNLP Demo</span> [InTriage: Intelligent Telephone Triage in Pre-Hospital Emergency Care]().<br>Kai He, ***Qika Lin***, Hao Fei, Eng Siong Chng, Dehan Hong, Marcus Eng Hock Ong, Mengling Feng.
