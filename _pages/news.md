@@ -19,7 +19,8 @@
 </style>  
 <div class="scrollable-area">  
     <ul>
-        
+
+    <li><em>2025.09</em>: 🎉🎉MARS and MPAS (multi-agent system) are accepted by AAAI 2026, Congrats to <a href="https://scholar.google.com.hk/citations?user=p_VW6-UAAAAJ">Jian Zhang</a>; MPA is accepted by AAAI 2026, Congrats to Liwen.</li>
     <li><em>2025.09</em>: 🥳🥳HyperGraphRAG is accepted by NeurIPS 2025, Congrats to <a href="https://lhrlab.github.io/">Haoran</a>.</li>
     <li><em>2025.07</em>: 🥳🥳Our study of multi-LLM based graph anomaly detection is accepted by ACM MM 2025, Congrats to <a href="https://scholar.google.com.hk/citations?user=Xuyz-P0AAAAJ&hl=zh-CN&oi=ao">Dr. Yiming</a>.</li>
     <li><em>2025.05</em>: 🎉🎉Three papers are accepted by ACL 2025 and one paper is accepted by KDD 2025, Congrats to <a href="https://xufangzhi.github.io/">Fangzhi</a>, <a href="https://scholar.google.com.hk/citations?user=4nWk-HYAAAAJ">Dr. Kai</a> and <a href="https://scholar.google.com.hk/citations?user=MeiczY4AAAAJ">Dr. Zhen</a>.</li>
