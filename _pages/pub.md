@@ -5,6 +5,7 @@
 
 ## Preprint
 
+- [Concept than Document: Context Compression via AMR-based Conceptual Entropy](https://arxiv.org/pdf/2511.18832).<br>Kaize Shi, Xueyao Sun, Xiaohui Tao, Lin Li, ***Qika Lin***, Guandong Xu.
 - [Endoscopic Depth Estimation Based on Deep Learning: A Survey](https://arxiv.org/pdf/2507.20881).<br>Ke Niu, Zeyun Liu, Xue Feng, Heng Li, ***Qika Lin***, Kaize Shi.
 - [Anchoring Refusal Direction: Mitigating Safety Risks in Tuning via Projection Constraint](https://arxiv.org/pdf/2509.06795).<br>Yanrui Du, Fenglei Fan, Sendong Zhao, Jiawei Cao, ***Qika Lin***, Kai He, Ting Liu, Bing Qin, Mengling Feng.
 - [A Foundation Model for Chest X-ray Interpretation with Grounded Reasoning via Online Reinforcement Learning](https://arxiv.org/pdf/2509.03906).&nbsp;[![](https://img.shields.io/github/stars/DeepReasoning/DeepMedix-R1?style=social&label=Code+Stars)](https://github.com/DeepReasoning/DeepMedix-R1)&nbsp;[<img src='./images/huggingface_logo.svg' style='width: 1.35em;'>](https://huggingface.co/Qika/DeepMedix-R1)<br>***Qika Lin***, Yifan Zhu, Bin Pu, Ling Huang, Haoran Luo, Jingying Ma, Zhen Peng, Tianzhe Zhao, Fangzhi Xu, Jian Zhang, Kai He, Zhonghong Ou, Swapnil Mishra, Mengling Feng.
