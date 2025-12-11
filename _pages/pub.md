@@ -14,7 +14,6 @@
 - [Towards Unified Neurosymbolic Reasoning on Knowledge Graphs](https://arxiv.org/abs/2507.03697).<br>***Qika Lin***, Fangzhi Xu, Hao Lu, Kai He, Rui Mao, Jun Liu, Erik Cambria, Mengling Feng.
 - [CodeBrain: Bridging Decoupled Tokenizer and Multi-Scale Architecture for EEG Foundation Model](https://arxiv.org/pdf/2506.09110).<br>Jingying Ma, Feng Wu, ***Qika Lin***✉, Yucheng Xing, Chenyu Liu, Ziyu Jia✉, Mengling Feng.
 - [Segment Any RGB-Thermal Model with Language-aided Distillation](https://arxiv.org/pdf/2505.01950).<br>Dong Xing, Xianxun Zhu, Wei Zhou, ***Qika Lin***, Hang Yang, Yuqing Wang.
-- [GKG-LLM: A Unified Framework for Generalized Knowledge Graph Construction](https://arxiv.org/pdf/2503.11227).<br>Jian Zhang, Bifan Wei, Shihao Qi, Haiping Zhu, Jun Liu, ***Qika Lin***✉.
 - [A Survey of Quantized Graph Representation Learning: Connecting Graph Structures with Large Language Models](https://arxiv.org/pdf/2502.00681).<br>***Qika Lin***, Zhen Peng, Kaize Shi, Kai He, Yiming Xu, Erik Cambria, Mengling Feng.
 
 ## 2026
