@@ -29,9 +29,9 @@
     <li><em>2025.04</em>: 🎉🎉Two papers are accepted by SIGIR 2025, Congrats to Yaxian and Tianzhe.</li>
     <li><em>2025.04</em>: 🥳🥳Our study of diffusion-based difference-aware medical VQA is accepted by IEEE TIP.</li>
     <li><em>2025.01</em>: 🥳🥳Our logical reasoning evaluation study of LLMs is accepted by IEEE TKDE.</li>
-    <li><em>2024.11</em>: 🥳🥳Our survey paper on Multimodel Healthcare is accepted by Information Fusion (2023 IF 14.7).</li>
-    <li><em>2024.11</em>: 🚀🚀CFPs: Our Special Issue of <a href="https://www.sciencedirect.com/special-issue/1025C5HLZVJ">GenAI for Information Fusion</a> in Information Fusion (2023 IF 14.7).</li>
-    <li><em>2024.02</em>: 🚀🚀CFPs: Our Special Issue of <a href="https://www.ieeesmc.org/wp-content/uploads/2024/02/Multimodal-Representation-and-Reasoning-for-Social-Computing-CFP.pdf">Multimodal Representation and Reasoning for Social Computing</a> in IEEE TCSS (2023 IF 4.5).</li>
+    <li><em>2024.11</em>: 🥳🥳Our survey paper on Multimodel Healthcare is accepted by Information Fusion (IF 15.5).</li>
+    <li><em>2024.11</em>: 🚀🚀CFPs: Our Special Issue of <a href="https://www.sciencedirect.com/special-issue/1025C5HLZVJ">GenAI for Information Fusion</a> in Information Fusion (IF 15.5).</li>
+    <li><em>2024.02</em>: 🚀🚀CFPs: Our Special Issue of <a href="https://www.ieeesmc.org/wp-content/uploads/2024/02/Multimodal-Representation-and-Reasoning-for-Social-Computing-CFP.pdf">Multimodal Representation and Reasoning for Social Computing</a> in IEEE TCSS (IF 4.9).</li>
 
     </ul>  
 </div>  
