@@ -20,6 +20,7 @@
 <div class="scrollable-area">  
     <ul>
 
+    <li><em>2026.01</em>: 🎉🎉Start to serve as an Editor of Information Fusion (IF 15.5).</li>
     <li><em>2025.09</em>: 🎉🎉Two agent studies are accepted by AAAI 2026, Congrats to <a href="https://scholar.google.com.hk/citations?user=p_VW6-UAAAAJ">Jian Zhang</a>; MPA is accepted by AAAI 2026, Congrats to Liwen.</li>
     <li><em>2025.09</em>: 🥳🥳HyperGraphRAG is accepted by NeurIPS 2025, Congrats to <a href="https://lhrlab.github.io/">Haoran</a>.</li>
     <li><em>2025.07</em>: 🥳🥳Our study of multi-LLM based graph anomaly detection is accepted by ACM MM 2025, Congrats to <a href="https://scholar.google.com.hk/citations?user=Xuyz-P0AAAAJ&hl=zh-CN&oi=ao">Dr. Yiming</a>.</li>
