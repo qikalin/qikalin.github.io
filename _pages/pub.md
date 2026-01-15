@@ -5,6 +5,8 @@
 
 ## Preprint
 
+- [A3-Bench: Benchmarking Memory-Driven Scientific Reasoning via Anchor and Attractor Activation](https://arxiv.org/pdf/2601.09274).<br>Jian Zhang, Yu He, Zhiyuan Wang, Zhangqi Wang, Kai He, Fangzhi Xu, ***Qika Lin***, Jun Liu.
+- [MAXS: Meta-Adaptive Exploration with LLM Agents](https://arxiv.org/pdf/2601.09259).<br>Jian Zhang, Zhiyuan Wang, Zhangqi Wang, Yu He✉, Haoran Luo, li yuan, Lingling Zhang, Rui Mao, ***Qika Lin***✉, Jun Liu.
 - [Concept than Document: Context Compression via AMR-based Conceptual Entropy](https://arxiv.org/pdf/2511.18832).<br>Kaize Shi, Xueyao Sun, Xiaohui Tao, Lin Li, ***Qika Lin***, Guandong Xu.
 - [Endoscopic Depth Estimation Based on Deep Learning: A Survey](https://arxiv.org/pdf/2507.20881).<br>Ke Niu, Zeyun Liu, Xue Feng, Heng Li, ***Qika Lin***, Kaize Shi.
 - [Anchoring Refusal Direction: Mitigating Safety Risks in Tuning via Projection Constraint](https://arxiv.org/pdf/2509.06795).<br>Yanrui Du, Fenglei Fan, Sendong Zhao, Jiawei Cao, ***Qika Lin***, Kai He, Ting Liu, Bing Qin, Mengling Feng.
