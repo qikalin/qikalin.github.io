@@ -19,7 +19,8 @@
 </style>  
 <div class="scrollable-area">  
     <ul>
-        
+
+    <li><em>2026.01</em>: 🥳🥳CodeBrain is accepted by ICLR 2026, Congrats to <a href="https://scholar.google.com.hk/citations?user=44HREuQAAAAJ">Jingying</a>.</li>
     <li><em>2026.01</em>: 🥳🥳Two papers are accepted by The Web Conference 2026.</li>
     <li><em>2026.01</em>: 🚀🚀Two papers have been recognized as ESI Highly Cited (Top 1%).</li>
     <li><em>2026.01</em>: 🚀🚀Start to serve as an Editor of Information Fusion (IF 15.5).</li>
