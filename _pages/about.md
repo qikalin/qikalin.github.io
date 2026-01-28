@@ -56,6 +56,7 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 # 🎤 Reports & Talks
 <span class='anchor' id='-report'></span>
 
+- *2026.01* Technical Discussion by AI TIME: [AI TIME 全球出海第1站 —— 新加坡首场线下思辨活动，我们来了！](https://mp.weixin.qq.com/s?src=11&timestamp=1769582686&ver=6507&signature=8YLsMH0W1vZvLmqtJl0EgXlDL7XGKIGXwNS7v8Dw1Q*2J8Q8qoMieLrIQS0eQhMiVF*OxFkuh1evJnVXBEbPV41WZkuhwrT9sClPQY-v02qtWwn3LIcukE3NIhv37750&new=1).
 - *2025.09* Report by MIT Technology Review: [专为胸部X光图像设计：科学家研发医学基础模型，提供清晰可追溯诊断依据](https://www.mittrchina.com/news/detail/15249).
 
 # 🚨 Academic Projects & Services
