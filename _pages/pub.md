@@ -22,6 +22,7 @@
 - [A Survey of Quantized Graph Representation Learning: Connecting Graph Structures with Large Language Models](https://arxiv.org/pdf/2502.00681).<br>***Qika Lin***, Zhen Peng, Kaize Shi, Kai He, Yiming Xu, Erik Cambria, Mengling Feng.
 
 ## 2026
+- <span style="background-color: darkblue; color: white; padding: 1px 4px; font-size: 85%;">IEEE TDSC</span> [UniFLE: Uniform Fusion of Multiple LoRA Experts for Backdoor Defense in Large Language Models]().<br>Shuai Zhao, ***Qika Lin***, Yanhao Jia, Xinyi Wu, Yuwen Li, Anh Tuan Luu.
 - <span style="background-color: darkblue; color: white; padding: 1px 4px; font-size: 85%;">ICLR</span> [CodeBrain: Bridging Decoupled Tokenizer and Multi-Scale Architecture for EEG Foundation Model](https://arxiv.org/pdf/2506.09110).<br>Jingying Ma, Feng Wu, ***Qika Lin***✉, Yucheng Xing, Chenyu Liu, Ziyu Jia✉, Mengling Feng.
 - <span style="background-color: darkblue; color: white; padding: 1px 4px; font-size: 85%;">IEEE TAFFC</span> [ICoCO: Interpretable Concept-guided Context Optimization for Trustworthy Facial Expression Recognition in Mental Health Monitoring](). Lei Zhao, Bin Pu, Xiaoming Qi, Chunzheng Zhu, ***Qika Lin***, Chunlian Wang, Kenli Li.
 - <span style="background-color: darkblue; color: white; padding: 1px 4px; font-size: 85%;">WWW</span> [ScotRec: Social Chain-of-Thought LLM Reasoning for Recommendation]().<br>Kaibei Li, Jie Zou, ***Qika Lin***, Weikang Guo, Qinyang He, Yang Yang.
