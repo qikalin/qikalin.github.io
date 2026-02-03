@@ -4,7 +4,10 @@
 ✉: corresponding author,&nbsp;&nbsp;‡: co-first author
 
 ## Preprint
-
+- [TIDE: Trajectory-based Diagnostic Evaluation of Test-Time Improvement in LLM Agents](https://arxiv.org/pdf/2602.02196).<br>Hang Yan, Xinyu Che, Fangzhi Xu✉, Qiushi Sun, Zichen Ding, Kanzhi Cheng, Jian Zhang, Tao Qin, Jun Liu, ***Qika Lin***✉.
+- [From Latent Signals to Reflection Behavior: Tracing Meta-Cognitive Activation Trajectory in R1-Style LLMs](https://arxiv.org/pdf/2602.01999).<br>Yanrui Du, Yibo Gao, Sendong Zhao, Jiayun Li, Haochun Wang, ***Qika Lin***, Kai He, Bing Qin, Mengling Feng.
+- [S3-CoT: Self-Sampled Succinct Reasoning Enables Efficient Chain-of-Thought LLMs](https://arxiv.org/pdf/2602.01982).<br>Yanrui Du, Sendong Zhao, Yibo Gao, Danyang Zhao, ***Qika Lin***, Ming Ma, Jiayun Li, Yi Jiang, Kai He, Qianyi Xu, Bing Qin, Mengling Feng.
+- [FlowSteer: Interactive Agentic Workflow Orchestration via End-to-End Reinforcement Learning](https://arxiv.org/pdf/2602.01664).<br>Mingda Zhang, Haoran Luo, Tiesunlong Shen, ***Qika Lin***, Xiaoying Tang, Rui Mao, Erik Cambria.
 - [Towards Efficient and Robust Linguistic Emotion Diagnosis for Mental Health via Multi-Agent Instruction Refinement](https://arxiv.org/pdf/2601.13481).<br>Jian Zhang, Zhangqi Wang, Zhiyuan Wang, Weiping Fu, Yu He, Haiping Zhu✉, ***Qika Lin***✉, Jun Liu.
 - [A3-Bench: Benchmarking Memory-Driven Scientific Reasoning via Anchor and Attractor Activation](https://arxiv.org/pdf/2601.09274).<br>Jian Zhang, Yu He, Zhiyuan Wang, Zhangqi Wang, Kai He, Fangzhi Xu, ***Qika Lin***, Jun Liu.
 - [MAXS: Meta-Adaptive Exploration with LLM Agents](https://arxiv.org/pdf/2601.09259).<br>Jian Zhang, Zhiyuan Wang, Zhangqi Wang, Yu He✉, Haoran Luo, Li Yuan, Lingling Zhang, Rui Mao, ***Qika Lin***✉, Jun Liu.
