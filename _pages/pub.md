@@ -4,6 +4,7 @@
 ✉: corresponding author,&nbsp;&nbsp;‡: co-first author
 
 ## Preprint
+- [OdysseyArena: Benchmarking Large Language Models For Long-Horizon, Active and Inductive Interactions](https://arxiv.org/pdf/2602.05843).<br>Fangzhi Xu, Hang Yan, Qiushi Sun, Jinyang Wu, Zixian Huang, Muye Huang, Jingyang Gong, Zichen Ding,..., ***Qika Lin***✉.
 - [TIDE: Trajectory-based Diagnostic Evaluation of Test-Time Improvement in LLM Agents](https://arxiv.org/pdf/2602.02196).<br>Hang Yan, Xinyu Che, Fangzhi Xu✉, Qiushi Sun, Zichen Ding, Kanzhi Cheng, Jian Zhang, Tao Qin, Jun Liu, ***Qika Lin***✉.
 - [From Latent Signals to Reflection Behavior: Tracing Meta-Cognitive Activation Trajectory in R1-Style LLMs](https://arxiv.org/pdf/2602.01999).<br>Yanrui Du, Yibo Gao, Sendong Zhao, Jiayun Li, Haochun Wang, ***Qika Lin***, Kai He, Bing Qin, Mengling Feng.
 - [S3-CoT: Self-Sampled Succinct Reasoning Enables Efficient Chain-of-Thought LLMs](https://arxiv.org/pdf/2602.01982).<br>Yanrui Du, Sendong Zhao, Yibo Gao, Danyang Zhao, ***Qika Lin***, Ming Ma, Jiayun Li, Yi Jiang, Kai He, Qianyi Xu, Bing Qin, Mengling Feng.
