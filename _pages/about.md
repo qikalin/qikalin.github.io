@@ -77,8 +77,7 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
 - ***Top-tier CS Journals***: TPAMI, TKDE, TIP, AIJ, IJCV, TOIS, TMC, TDSC, TIFS, TNNLS, TFS, TCSVT, TKDD, TOSEM, TMM, IoT, etc.
 
 ## Conference Service
-- ***Area Chair (AC)***: ACL ARR'25-26, ICASSP'26, LREC'26, IJCNN'25.
-- ***Senior Program Committee (SPC) Member***: IJCAI'26.
+- ***Area Chair (AC)/Senior Program Committee (SPC) Member***: ACL ARR'25-26, KDD'26, IJCAI'26, ICASSP'26, LREC'26, IJCNN'25.
 - ***Program Committee Member***: NeurIPS'24-25, ICLR'25-26, ICML'25, ACL'23-25, SIGIR'23-25, KDD'25-26, WWW'26, AISTATS'25, COLING'22-25, LOG'22-23, EMNLP'22-25, CIKM'24, IJCAI'25, etc.
 - ***Publicity Chair*** of the [International Conference on Artificial Intelligence, Big Data and Algorithms (CAIBDA)](https://www.caibda.org/committee), 2025.
 - ***Special Session Chair*** of [Knowledge + Data Driven AI model for Understanding Social Behavioral-Based Data](https://besc-conf.org/2025/special-session-1), in BESC 2025.
