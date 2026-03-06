@@ -68,6 +68,7 @@ For my full (and timely) publication list, please refer to my Google scholar <a 
   
 ## Editor Service
 
+- *2026.03 - present*, ***Associate Editor*** of Pattern Recognition (IF 7.6).
 - *2026.01 - present*, ***Editorial Board Member*** in Information Fusion (IF 15.5).
 - *2024.11 - present*, ***Guest Editor*** of [GenAI for Information Fusion](https://www-sciencedirect-com.libproxy1.nus.edu.sg/special-issue/316104/genai-for-information-fusion) in Information Fusion (IF 15.5).
 - *2024.02 - 2024.11*, ***Guest Editor (corresponding)*** of [Multimodal Representation and Reasoning for Social Computing](https://www.ieeesmc.org/wp-content/uploads/2024/02/Multimodal-Representation-and-Reasoning-for-Social-Computing-CFP.pdf) in IEEE Transactions on Computational Social Systems.
