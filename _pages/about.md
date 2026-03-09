@@ -20,9 +20,12 @@ redirect_from:
 
 I currently work as a Research Fellow in NUS. My research fields involve: ***Large Language Model***, ***Vision Language Model***, ***Knowledge Reasoning***, and ***Robustness & Security***. Moving forward, my focus will be on exploring the potential of AI in multimodal ***healthcare*** applications.
 
-Currently, I serve as an <span style="color: #A52A2A; font-weight: bold;">这里是棕红色的加粗文字</span>Associate Editor for Pattern Recognition (IF 7.6, CAAI-A, 一区) and as an Editorial Board Member for Information Fusion (IF 15.5, CAAI-A, 一区). For my full (and timely) publication list, please refer to my Google scholar <a href='https://scholar.google.com/citations?user=k8BKz0MAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+Currently, I serve as an <span style="color: #A52A2A; font-weight: bold;">Associate Editor for Pattern Recognition (IF 7.6, CCf-B, 一区)</span> and as an <span style="color: #A52A2A; font-weight: bold;">Editorial Board Member for Information Fusion (IF 15.5, CAAI-A, 一区)</span>. For my full (and timely) publication list, please refer to my Google scholar <a href='https://scholar.google.com/citations?user=k8BKz0MAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
+<!--
 ***I am currently in the job market. If there are any available positions, please feel free to contact me.***
+-->
+***I am also seeking self-motivated students/researchers to collaborate on cutting-edge topics in LLM-related research. If you’re interested in my research directions, please feel free to reach out.***
 
 
 
