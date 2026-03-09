@@ -25,7 +25,7 @@ Currently, I serve as an <span style="color: #A52A2A; font-weight: bold;">Associ
 <!--
 ***I am currently in the job market. If there are any available positions, please feel free to contact me.***
 -->
-***I am also seeking self-motivated students/researchers to collaborate on cutting-edge topics in LLM-related research. If you’re interested in my research directions, please feel free to reach out.***
+***I am seeking self-motivated students/researchers to collaborate on cutting-edge topics in LLM-related research. If you’re interested in my research directions, please feel free to reach out.***
 
 
 
