@@ -34,8 +34,6 @@ Currently, I serve as an <span style="color: #A52A2A; font-weight: bold;">Associ
 {% include_relative pub.md %}
 
 
-
-
 # 🎖 Honors & Awards
 <span class='anchor' id='-honors-and-awards'></span>
 
@@ -43,12 +41,6 @@ Currently, I serve as an <span style="color: #A52A2A; font-weight: bold;">Associ
 - *2025.11* SM-IoT Best Paper Award.
 - *2025.10* Best Special Session Paper Award from BESC 2025.
 - *Before 2023* National Scholarship, Tencent Scholarship, ACM SIGIR Student Travel Grant, Innovation and Entrepreneurship Scholarship of Ministry of Industry and Information Technology, etc.
-<!--
-- *2022.10* National Scholarship.
-- *2022.10* Tencent Scholarship.
-- *2022.04* ACM SIGIR Student Travel Grant.
-- *2019.04* Innovation and Entrepreneurship Scholarship of Ministry of Industry and Information Technology.
--->
 
 # 🎤 Reports & Talks
 <span class='anchor' id='-report'></span>
