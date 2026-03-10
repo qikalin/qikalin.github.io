@@ -17,8 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-
-I currently work as a Research Fellow in NUS. My research fields involve: ***Large Language Model***, ***Vision Language Model***, ***Knowledge Reasoning***, and ***Robustness & Security***. Moving forward, my focus will be on exploring the potential of AI in multimodal ***healthcare*** applications.
+I currently work as a Research Fellow in NUS, advised by [Prof. Mengling Feng](https://www.mornin-feng.com/). Before that, I obtained my Ph.D. degree from Xi'an Jiaotong University, under the supervision of [Prof. Jun Liu](https://gr.xjtu.edu.cn/web/liukeen) and [Prof. Erik Cambria](https://scholar.google.com/citations?user=ilSYpW0AAAAJ). My research fields involve: ***Large Language Model***, ***Vision Language Model***, ***Knowledge Reasoning***, and ***Robustness & Security***. Moving forward, my focus will be on exploring the potential of AI in multimodal ***healthcare*** applications.
 
 Currently, I serve as an <span style="color: #A52A2A; font-weight: bold;">Associate Editor for Pattern Recognition (IF 7.6, CCF-B, 一区)</span> and as an <span style="color: #A52A2A; font-weight: bold;">Editorial Board Member for Information Fusion (IF 15.5, CAAI-A, 一区)</span>. For my full (and timely) publication list, please refer to my Google scholar <a href='https://scholar.google.com/citations?user=k8BKz0MAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
@@ -40,21 +39,16 @@ Currently, I serve as an <span style="color: #A52A2A; font-weight: bold;">Associ
 # 🎖 Honors & Awards
 <span class='anchor' id='-honors-and-awards'></span>
 
+- *2025.12* Best Paper Award from BIBM workshop.
+- *2025.11* SM-IoT Best Paper Award.
+- *2025.10* Best Special Session Paper Award from BESC 2025.
+- *Before 2023* National Scholarship, Tencent Scholarship, ACM SIGIR Student Travel Grant, Innovation and Entrepreneurship Scholarship of Ministry of Industry and Information Technology, etc.
+<!--
 - *2022.10* National Scholarship.
 - *2022.10* Tencent Scholarship.
 - *2022.04* ACM SIGIR Student Travel Grant.
 - *2019.04* Innovation and Entrepreneurship Scholarship of Ministry of Industry and Information Technology.
-
-# 🔍 Educations & Work Experiences
-
-<span class='anchor' id='-educations'></span>
-
-- *2023.09 - present*, Research Fellow at SSHSPH, National University of Singapore, Singapore. (Supervisor: [Prof. Mengling Feng](https://www.mornin-feng.com/))
-- *2021.10 - 2022.10*, Joint Ph.D. at CCDS, Nanyang Technological University, Singapore. (Supervisor: [Prof. Erik Cambria](https://scholar.google.com/citations?user=ilSYpW0AAAAJ))
-- *2019.09 - 2023.06*, Ph.D. at School of Computer Science and Technology, Xi'an Jiaotong University, Shannxi, China. (Supervisor: [Prof. Jun Liu](https://gr.xjtu.edu.cn/web/liukeen))
-- *2016.09 - 2019.06*, M.E. at School of Computer Science and Technology, Beijing Institute of Technology, Beijing, China. (Supervisor: [Prof. Zhendong Niu](https://cs.bit.edu.cn/szdw/jsml/js/nzd/index.htm))
-- *2012.09 - 2016.06*, B.E. at School of Chemical Engineering and Environment, Beijing Institute of Technology, Beijing, China. 
-
+-->
 
 # 🎤 Reports & Talks
 <span class='anchor' id='-report'></span>
