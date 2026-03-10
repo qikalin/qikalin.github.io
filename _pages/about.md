@@ -34,7 +34,7 @@ Currently, I serve as an <span style="color: #A52A2A; font-weight: bold;">Associ
 {% include_relative pub.md %}
 
 
-# 🎖 Honors & Awards
+# 🏆 Honors & Awards
 <span class='anchor' id='-honors-and-awards'></span>
 
 - *2025.12* Best Paper Award from BIBM workshop.
