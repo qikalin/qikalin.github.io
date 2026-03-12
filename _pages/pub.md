@@ -4,6 +4,7 @@
 ✉: corresponding author,&nbsp;&nbsp;‡: co-first author
 
 ## Preprint
+- [Language-Centered Mental Healthcare with Large Language Models: A Comprehensive Survey Across the Care Continuum](https://sentic.net/language-centered-mental-healthcare.pdf).<br>Jialun Wu, Kai He, Onno P. Kampman, Chung Siew Keong Gerard, Goh Wen Bin Wilson, ***Qika Lin***, Jiaxing Xu, Yanrui Du, Xuequn Shang, Erik Cambria, Mengling Feng.
 - [Structured Prototype-Guided Adaptation for EEG Foundation Models](https://arxiv.org/pdf/2602.17251).<br>Jingying Ma, Feng Wu, Yucheng Xing, ***Qika Lin***, Tianyu Liu, Chenyu Liu, Ziyu Jia, Mengling Feng.
 - [A Survey of LLM Reasoning in Healthcare and Medicine: from Individual Modeling to Collaborative Agents](https://www.techrxiv.org/users/1023135/articles/1383034-a-survey-of-llm-reasoning-in-healthcare-and-medicine-from-individual-modeling-to-collaborative-agents).<br>***Qika Lin***, Luwei Xiao, Bin Pu, Kaize Shi, Yanrui Du, Jiaxing Xu, Kai He, Shuai Zhao, Erik Cambria, Swapnil Mishra, Mengling Feng.
 - [OdysseyArena: Benchmarking Large Language Models For Long-Horizon, Active and Inductive Interactions](https://arxiv.org/pdf/2602.05843).<br>Fangzhi Xu, Hang Yan, Qiushi Sun, Jinyang Wu, Zixian Huang, Muye Huang, Jingyang Gong, Zichen Ding,..., ***Qika Lin***✉.
