@@ -26,6 +26,7 @@
 - [A Survey of Quantized Graph Representation Learning: Connecting Graph Structures with Large Language Models](https://arxiv.org/pdf/2502.00681).<br>***Qika Lin***, Zhen Peng, Kaize Shi, Kai He, Yiming Xu, Erik Cambria, Mengling Feng.
 
 ## 2026
+- <span style="background-color: darkblue; color: white; padding: 1px 4px; font-size: 85%;">SIGIR</span> [Exploring Knowledge Conflicts for Faithful LLM Reasoning: Benchmark and Method]().<br>Tianzhe Zhao, Jiaoyan Chen, Shuxiu Zhang, Haiping Zhu, ***Qika Lin***✉, Jun Liu✉.
 - <span style="background-color: darkblue; color: white; padding: 1px 4px; font-size: 85%;">IEEE TAFFC</span> [Towards Efficient and Robust Linguistic Emotion Diagnosis for Mental Health via Multi-Agent Instruction Refinement](https://arxiv.org/pdf/2601.13481).<br>Jian Zhang, Zhangqi Wang, Zhiyuan Wang, Weiping Fu, Yu He, Haiping Zhu✉, ***Qika Lin***✉, Jun Liu.
 - <span style="background-color: darkblue; color: white; padding: 1px 4px; font-size: 85%;">IEEE TAI</span> [TiPE-SAM: Tiny and Parameter-Efficient SAM for Edge Medical Image Segmentation with Mixture-of-Shape-Experts Priors]().<br>Xingguo Lv, Ningshu Li, Lei Zhao, Kai Xu, ***Qika Lin***, Yifan Zhu, Chuan Zhang, Bin Pu.
 - <span style="background-color: darkblue; color: white; padding: 1px 4px; font-size: 85%;">Pattern Recognition</span> [CED: CLIP-guided entropy dynamics for robust test-time adaptation in harsh visual conditions]().<br>Liwen Wang, Xingbo Dong, Yenlung Lai, Bin Pu, Zhao Liu, ***Qika Lin***, Zhe Jin.
