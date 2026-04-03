@@ -20,6 +20,7 @@
 <div class="scrollable-area">  
     <ul>
 
+    <li><em>2026.04</em>: 🥳🥳Our study of faithful LLM reasoning is accepted by SIGIR 2026, Congrats to Tianzhe.</li>
     <li><em>2026.03</em>: 🚀🚀Start to serve as an Associate Editor of Pattern Recognition (IF 7.6).</li>
     <li><em>2026.01</em>: 🥳🥳CodeBrain is accepted by ICLR 2026, Congrats to <a href="https://scholar.google.com.hk/citations?user=44HREuQAAAAJ">Jingying</a>.</li>
     <li><em>2026.01</em>: 🥳🥳Two papers are accepted by The Web Conference 2026.</li>
